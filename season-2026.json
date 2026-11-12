@@ -1,0 +1,227 @@
+{
+  "record": "9–8",
+  "division": "AFC South",
+  "games": [
+    {
+      "week": 1,
+      "opponent": "Ravens",
+      "venue": "home",
+      "colts": 23,
+      "opponent_score": 26,
+      "result": "L 23–26",
+      "record": "0–1",
+      "page": "week-01-2026.html",
+      "gamecast": null
+    },
+    {
+      "week": 2,
+      "opponent": "Chiefs",
+      "venue": "away",
+      "colts": 13,
+      "opponent_score": 14,
+      "result": "L 13–14",
+      "record": "0–2",
+      "page": "week-02-2026.html",
+      "gamecast": null
+    },
+    {
+      "week": 3,
+      "opponent": "Texans",
+      "venue": "home",
+      "colts": 30,
+      "opponent_score": 17,
+      "result": "W 30–17",
+      "record": "1–2",
+      "page": "week-03-2026.html",
+      "gamecast": null
+    },
+    {
+      "week": 4,
+      "opponent": "Commanders",
+      "venue": "away",
+      "colts": 48,
+      "opponent_score": 20,
+      "result": "W 48–20",
+      "record": "2–2",
+      "page": "week-04-2026.html",
+      "gamecast": null
+    },
+    {
+      "week": 5,
+      "opponent": "Steelers",
+      "venue": "away",
+      "colts": 16,
+      "opponent_score": 29,
+      "result": "L 16–29",
+      "record": "2–3",
+      "page": "week-05-2026.html",
+      "gamecast": null
+    },
+    {
+      "week": 6,
+      "opponent": "Titans",
+      "venue": "home",
+      "colts": 13,
+      "opponent_score": 24,
+      "result": "L 13–24",
+      "record": "2–4",
+      "page": "week-06-2026.html",
+      "gamecast": null
+    },
+    {
+      "week": 7,
+      "opponent": "Vikings",
+      "venue": "away",
+      "colts": 17,
+      "opponent_score": 31,
+      "result": "L 17–31",
+      "record": "2–5",
+      "page": "week-07-2026.html",
+      "gamecast": null
+    },
+    {
+      "week": 8,
+      "opponent": "Jaguars",
+      "venue": "away",
+      "colts": 7,
+      "opponent_score": 25,
+      "result": "L 7–25",
+      "record": "2–6",
+      "page": "week-08-2026.html",
+      "gamecast": null
+    },
+    {
+      "week": 9,
+      "opponent": "Cowboys",
+      "venue": "home",
+      "colts": 13,
+      "opponent_score": 34,
+      "result": "L 13–34",
+      "record": "2–7",
+      "page": "week-09-2026.html",
+      "gamecast": null
+    },
+    {
+      "week": 10,
+      "opponent": "Dolphins",
+      "venue": "home",
+      "colts": 30,
+      "opponent_score": 19,
+      "result": "W 30–19",
+      "record": "3–7",
+      "page": "week-10-2026.html",
+      "gamecast": "assets/week-10-gamecast.png"
+    },
+    {
+      "week": 11,
+      "opponent": "Texans",
+      "venue": "away",
+      "colts": 51,
+      "opponent_score": 14,
+      "result": "W 51–14",
+      "record": "4–7",
+      "page": "week-11-2026.html",
+      "gamecast": "assets/week-11-gamecast.png"
+    },
+    {
+      "week": 12,
+      "opponent": "Giants",
+      "venue": "home",
+      "colts": 17,
+      "opponent_score": 13,
+      "result": "W 17–13",
+      "record": "5–7",
+      "page": "week-12-2026.html",
+      "gamecast": "assets/week-12-gamecast.png"
+    },
+    {
+      "week": 13,
+      "bye": true
+    },
+    {
+      "week": 14,
+      "opponent": "Eagles",
+      "venue": "away",
+      "colts": 30,
+      "opponent_score": 23,
+      "result": "W 30–23",
+      "record": "6–7",
+      "page": "week-14-2026.html",
+      "gamecast": "assets/week-14-gamecast.png"
+    },
+    {
+      "week": 15,
+      "opponent": "Titans",
+      "venue": "away",
+      "colts": 28,
+      "opponent_score": 10,
+      "result": "W 28–10",
+      "record": "7–7",
+      "page": "week-15-2026.html",
+      "gamecast": "assets/week-15-gamecast.png"
+    },
+    {
+      "week": 16,
+      "opponent": "Bengals",
+      "venue": "home",
+      "colts": 0,
+      "opponent_score": 37,
+      "result": "L 0–37",
+      "record": "7–8",
+      "page": "week-16-2026.html",
+      "gamecast": "assets/week-16-gamecast.png"
+    },
+    {
+      "week": 17,
+      "opponent": "Browns",
+      "venue": "away",
+      "colts": 35,
+      "opponent_score": 16,
+      "result": "W 35–16",
+      "record": "8–8",
+      "page": "week-17-2026.html",
+      "gamecast": "assets/week-17-gamecast.png"
+    },
+    {
+      "week": 18,
+      "opponent": "Jaguars",
+      "venue": "home",
+      "colts": 20,
+      "opponent_score": 14,
+      "result": "W 20–14",
+      "record": "9–8",
+      "page": "week-18-2026.html",
+      "gamecast": null
+    }
+  ],
+  "standings": [
+    [
+      "Titans",
+      10,
+      7,
+      ".588",
+      "—"
+    ],
+    [
+      "Colts",
+      9,
+      8,
+      ".529",
+      "1"
+    ],
+    [
+      "Jaguars",
+      7,
+      10,
+      ".412",
+      "3"
+    ],
+    [
+      "Texans",
+      5,
+      12,
+      ".294",
+      "5"
+    ]
+  ]
+}

@@ -3452,3 +3452,8 @@ Bryan met Q through Jonathan in Nov 2022; first date Jan 2, 2023 Aji Sushi in Ne
 
 ## Lindy recruitment
 Household assistant/chauffeur posted at $120K annually with Washington start and eventual Oklahoma move. Five applicants: Linda “Lindy” Harper 29, Iowa-born private-family assistant, finalist; Michelle Tran 35 (rigid scheduling, not selected); Sofia Ramirez 42 (formal distance, not selected); Daniel Brooks 38 (not interviewed); Ashley Morgan 27 (not interviewed). June 9 at 2:05 PM CDT Zoom from Jenny's OKC home: Q first coined “Lindy” during introductions, Linda accepted; strong chemistry, jokes about 12-car garage and mischievous Bo. Bryan said position begins helping Q day to day and may expand with a raise if fit; promised a household vehicle, no model selected. Linda was not yet hired at this checkpoint. Final interview arranged for June 10 noon PDT at modest 2,200 sq ft Renton Highlands home; Q planned casual lunch and meeting five pets. June 9 scene ended around 2:37 PM CDT at Jenny's after interview. Exact flight home not narrated.
+
+
+## 2026 Madden season results addendum
+
+Final record 9–8, second in the AFC South. Indianapolis beat Jacksonville 20–14 in Week 18. The Madden schedule corrects Week 9 vs Dallas to a 13–34 loss. See [schedule and standings](schedule.html). The Madden injury report lists Hampton with a Week 16 partial ACL tear, while the January 4 narrative handoff records a Week 17 shoulder injury. Reconciliation remains open. The last played scene remains January 4 at 11:05 AM EST.
