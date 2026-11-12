@@ -1,0 +1,167 @@
+{
+  "universe": "Oklahoma City Bison Universe V2",
+  "version": "0.1 — Prequel Foundation",
+  "status": "Prequel planned; roleplay not yet begun",
+  "timeline": [
+    {
+      "date": "2021",
+      "title": "Kona joins",
+      "kind": "Established",
+      "detail": "Kona, female Red Heeler, joins Bryan’s life."
+    },
+    {
+      "date": "Early 2022",
+      "title": "ICT firm founded",
+      "kind": "Established",
+      "detail": "Bryan starts his ICT business. Early operations are demanding; no invented valuation or revenue is fixed."
+    },
+    {
+      "date": "2022",
+      "title": "Luna joins",
+      "kind": "Established",
+      "detail": "Luna, female Pembroke Corgi, joins the household."
+    },
+    {
+      "date": "Late 2022",
+      "title": "Jonathan introduces Quynh",
+      "kind": "Established",
+      "detail": "Bryan’s best friend Jonathan introduces him to his cousin Quynh (Q). Bryan and Q initially text; they do not date in person until 2023."
+    },
+    {
+      "date": "After Q introduction, 2022",
+      "title": "The Powerball win",
+      "kind": "Established premise",
+      "detail": "Bryan receives a gifted Powerball ticket and wins a $1 billion advertised jackpot. Who gifted it, the precise date, payout election, and financial execution remain open."
+    },
+    {
+      "date": "2023",
+      "title": "Bryan and Q date and marry",
+      "kind": "Established",
+      "detail": "They go on their first date in 2023 and marry approximately three months into dating. Exact dates and scenes are not yet set."
+    },
+    {
+      "date": "June 2023",
+      "title": "Bing and Bo join",
+      "kind": "Established",
+      "detail": "Bing, a Ragdoll cat, and Bo, a black-and-white cat, enter the household."
+    },
+    {
+      "date": "2023",
+      "title": "Kuma joins",
+      "kind": "Established",
+      "detail": "Kuma, male Cowboy Corgi, joins the household; exact month open."
+    },
+    {
+      "date": "September 2023",
+      "title": "Lindy hired",
+      "kind": "Established premise",
+      "detail": "Lindy joins as a household assistant for Bryan and Q, supporting transportation, household operations, pet care, errands and preparation for the move. Interview and personal backstory are open for play."
+    },
+    {
+      "date": "2024",
+      "title": "Move to Oklahoma City",
+      "kind": "Established",
+      "detail": "Bryan and Q relocate to Oklahoma City; Lindy assists with the household move. Details of the home and logistics remain open."
+    },
+    {
+      "date": "2024–2025",
+      "title": "ICT and investment expansion",
+      "kind": "Direction, not completed transactions",
+      "detail": "Bryan develops his firm and investments, potentially through mergers and acquisitions. No particular acquisition, portfolio value or deal is canon until established."
+    },
+    {
+      "date": "2026",
+      "title": "NFL ownership pursuit",
+      "kind": "Planned main arc",
+      "detail": "Bryan pursues an NFL franchise. Seller, team, price, league approvals, terms and eventual outcome must emerge in play. The original franchise’s farewell season and potential relocation deserve full treatment."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Bryan Luong",
+      "role": "Player-controlled protagonist",
+      "entry": "2022",
+      "dna": "Ambitious ICT founder; business and family life develop through player decisions.",
+      "starting": "Founded an ICT firm in early 2022; busy with operations.",
+      "guardrail": "Only the user writes Bryan’s speech, actions, thoughts, choices and commitments."
+    },
+    {
+      "name": "Quynh “Q”",
+      "role": "Partner / later wife",
+      "entry": "Late 2022",
+      "dna": "Independent personality, priorities and agency; Vietnamese language and cultural background can inform natural dialogue.",
+      "starting": "Jonathan’s cousin, introduced by text in late 2022; first date 2023; married about three months later.",
+      "guardrail": "Do not portray her as Bryan’s wife before their 2023 marriage or invent how she reacts to the lottery."
+    },
+    {
+      "name": "Linda “Lindy”",
+      "role": "Household assistant",
+      "entry": "September 2023",
+      "dna": "Observant, capable, organized, dry and professional with Bryan; warmer and brighter with Q over time; Iowa roots from V1 as a proposed carryover.",
+      "starting": "New hire, not yet a longtime confidante; initial employment covers household operations, pets, errands, transportation and move planning.",
+      "guardrail": "Do not import V1 relationship milestones, established closeness, accidental kiss, live-in arrangement or promotions as V2 history."
+    },
+    {
+      "name": "Andy",
+      "role": "Inherited NFL organization employee",
+      "entry": "After 2026 acquisition",
+      "dna": "Resourceful, practical, funny, hardworking, adaptable, capable of pushing back.",
+      "starting": "An existing worker at the acquired franchise; exact role and biography remain to be established.",
+      "guardrail": "Bryan has never met Andy before acquiring the team. No automatic friendship, promotion, or executive salary."
+    },
+    {
+      "name": "Jonathan",
+      "role": "Bryan’s best friend; Q’s cousin",
+      "entry": "Late 2022",
+      "dna": "Established best-friend relationship with Bryan; fuller personality and background to be developed.",
+      "starting": "Introduces Bryan to his cousin Quynh in late 2022.",
+      "guardrail": "Do not invent specific family history, dialogue, or involvement in the lottery."
+    }
+  ],
+  "pets": [
+    {
+      "name": "Kona",
+      "type": "Female Red Heeler",
+      "arrival": "2021"
+    },
+    {
+      "name": "Luna",
+      "type": "Female Pembroke Corgi",
+      "arrival": "2022"
+    },
+    {
+      "name": "Kuma",
+      "type": "Male Cowboy Corgi",
+      "arrival": "2023 (month open)"
+    },
+    {
+      "name": "Bing",
+      "type": "Ragdoll cat",
+      "arrival": "June 2023"
+    },
+    {
+      "name": "Bo",
+      "type": "Black-and-white cat",
+      "arrival": "June 2023"
+    }
+  ],
+  "open_threads": [
+    "Who gifts Bryan the Powerball ticket, and when precisely does he win?",
+    "Where does Bryan live before the 2024 Oklahoma City move?",
+    "What is the ICT firm’s name, service mix and ownership structure?",
+    "How is lottery cash received, invested and grown into credible NFL purchasing power?",
+    "Lindy’s precise age, work history, Iowa connections and initial employment terms.",
+    "Which NFL franchise is pursued in 2026, and on what terms?",
+    "What are Andy’s initial franchise role and professional background?",
+    "The 2026 farewell-season timeline, stakeholders, staff decisions, fan response and possible relocation."
+  ],
+  "rules": [
+    "V1 and V2 are separate continuities; V1 is inspiration, not V2 history.",
+    "Only the user controls Bryan. Assistant controls other characters and world reactions.",
+    "Character DNA is not character knowledge; relationships must be earned in V2.",
+    "No automatic deals, promotions, financial outcomes, NFL approvals, relocation or game results.",
+    "2022–2025 prequel is brisk, selectively dramatized and summarized in handoffs; prioritize reaching 2026.",
+    "Preserve both hard canon and unknowns; never turn suggestions into completed events.",
+    "Create a continuity handoff at each substantial time skip and at the end of major arcs."
+  ]
+}

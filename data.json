@@ -1,0 +1,830 @@
+{
+  "universe": "Oklahoma City Bisons V2",
+  "version": "1.9.5 — January 4, 2027",
+  "status": "8–8 · Final Indianapolis home game pending",
+  "current_scene": {
+    "date": "2027-01-04",
+    "time": "11:05 AM EST",
+    "place": "Colts headquarters executive conference room",
+    "prompt": "Jonathan’s text just arrived. Bryan chooses the next action."
+  },
+  "finance": {
+    "franchise_valuation": 6800000000,
+    "acquired_interest_pct": 70,
+    "purchase_price": 4760000000,
+    "bryan_franchise_pct": 81,
+    "syndicate_pct": 19,
+    "irsay_pct": 0,
+    "bryan_existing_capital": 1500000000,
+    "ascend_sale_after_tax": 1968000000,
+    "syndicate_contribution": 1292000000,
+    "ascend_pct_sold": 36.4,
+    "ascend_pct_retained": 0,
+    "remaining_liquidity": 500000000,
+    "post_closing_estimated_net_worth": 8420000000,
+    "personal_acquisition_debt": 0,
+    "irsay_buyout": 2040000000,
+    "outside_assets_estimate": 2520620000
+  },
+  "ownership": [
+    {
+      "name": "Bryan Luong",
+      "stake": "81%",
+      "value": ""
+    },
+    {
+      "name": "Oklahoma investor syndicate",
+      "stake": "19%",
+      "value": ""
+    },
+    {
+      "name": "Irsay family",
+      "stake": "0%",
+      "value": ""
+    }
+  ],
+  "timeline": [
+    {
+      "date": "Early 2022",
+      "title": "Ascend origins",
+      "detail": "Bryan founds five-employee Washington ICT firm."
+    },
+    {
+      "date": "December 2022",
+      "title": "Powerball jackpot",
+      "detail": "Jonathan gifts winning ticket; $1B advertised jackpot."
+    },
+    {
+      "date": "January–June 2023",
+      "title": "Family foundations",
+      "detail": "Q first date Jan 2, marriage Mar 27, pets join, estate purchase and Lindy interview."
+    },
+    {
+      "date": "December 31, 2023",
+      "title": "Ascend expands",
+      "detail": "Two acquisitions totaling $40M; $10M shortened-year gross revenue; $286.8M illustrative investment allocation."
+    },
+    {
+      "date": "January–March 2024",
+      "title": "Bitcoin investments",
+      "detail": "Initial $20M purchased; March $10M sale directed but execution not confirmed."
+    },
+    {
+      "date": "April 20, 2024",
+      "title": "Oklahoma relocation",
+      "detail": "Estate completed and occupied; Lindy total annual salary raised to $200K."
+    },
+    {
+      "date": "2025",
+      "title": "Ascend global expansion",
+      "detail": "International growth and nine acquisitions established; no invented individual deal details."
+    },
+    {
+      "date": "October 16, 2026",
+      "title": "Cardinals negotiations end",
+      "detail": "Bidwill relocation restriction unacceptable; Indianapolis becomes acquisition target."
+    },
+    {
+      "date": "October 17, 2026",
+      "title": "Irsay commercial framework",
+      "detail": "Valuation $6.8B, 70/30, 2027 OKC target, employee protections, charitable program."
+    },
+    {
+      "date": "November 3, 2026",
+      "title": "Colts acquisition CLOSED",
+      "detail": "Bryan 51%, syndicate 19%, Irsay 30%; $4.76B settled, Ascend 36.4% sold."
+    },
+    {
+      "date": "November 3, 2026 · afternoon",
+      "title": "Leadership and relocation planning",
+      "detail": "Sarah accepts $350K business operations role; Bobby accepts football operations role (paperwork pending). Goodell advances fee proposal for review; Nov 5 confidential briefing is not a vote. Five logistics candidates evaluated confidentially."
+    },
+    {
+      "date": "November 3, 2026 · evening",
+      "title": "Household celebration",
+      "detail": "Family celebrates acquisition with dinner and cake."
+    },
+    {
+      "date": "November 4, 2026 · Indianapolis",
+      "title": "First facility visit and press conference",
+      "detail": "Bryan tours with Bobby, Sarah and Emily; retains coaching staff through 2026. Press conference 2:29–3:23 PM EST, 43 journalists; Daniel Mercer and Mina Kimes participate. No relocation announced."
+    },
+    {
+      "date": "November 4, 2026 · 9:46 PM EST",
+      "title": "Fictional ESPN article published",
+      "detail": "National coverage of 28-year-old owner, Ascend, Bobby, coaching commitment, Indianapolis uncertainty and Hudl clips. Views rise from 99 to 79,121."
+    },
+    {
+      "date": "November 4, 2026 · ~10:10 PM CST",
+      "title": "Current household checkpoint",
+      "detail": "Q and Lindy watch highlights. Q asks about telling their daughter; Bryan has not replied. Q pregnant with Braylee, due March 20, 2027."
+    },
+    {
+      "date": "November 5, 2026",
+      "title": "Confidential owners briefing",
+      "detail": "Bisons branding presented; no approval or vote. Nov 11 target, $375M fee over five years proposed."
+    },
+    {
+      "date": "November 6, 2026",
+      "title": "Mercer and Mina interviews completed",
+      "detail": "Mercer 10:02–11:12 AM EST; Mina 1:00–1:51 PM. Recorded five-year championship promise; private documentary pitch 1:52–2:08 PM, no approval."
+    },
+    {
+      "date": "Intervening week before Nov 10",
+      "title": "Dallas defeat",
+      "detail": "Colts lost to Cowboys 27–23; date, stats and season record unprovided."
+    },
+    {
+      "date": "By November 10, 2026",
+      "title": "Pete and Scot join leadership",
+      "detail": "Pete senior advisor; Scot personnel executive. Exact contract details unprovided."
+    },
+    {
+      "date": "November 10, 2026",
+      "title": "Trade deadline roster overhaul",
+      "detail": "11 completed packages, separate Chargers pick adjustment, 13 signings, Grupe released. Herbert/Hampton centerpiece; latest inventory 22 picks over 2027–28."
+    },
+    {
+      "date": "November 10, 2026 · 4:00:05 PM EST",
+      "title": "Five seconds too late",
+      "detail": "Williams verbal agreement invalid; Seattle keeps player, Colts keep #69. Golden offer declined; #104 retained."
+    },
+    {
+      "date": "November 10, 2026 · ~4:05 PM EST",
+      "title": "Current checkpoint",
+      "detail": "Leadership laughing after deadline; next scene unchosen."
+    },
+    {
+      "date": "November 11 · 11:06 AM EST",
+      "title": "Relocation approved",
+      "detail": "30–1–1 for 2027. $375M over five years."
+    },
+    {
+      "date": "November 11 · afternoon and evening",
+      "title": "Internal rollout",
+      "detail": "Carlie and Bryan brief employees, players first learn at 6:07 PM. Andy receives expanded duties and raise."
+    },
+    {
+      "date": "November 12 · 10:21 AM EST",
+      "title": "Public press conference concluded",
+      "detail": "Emily waits with the Thursday schedule. Early exchanges missing from supplied archive."
+    },
+    {
+      "date": "Nov 15",
+      "title": "Miami win",
+      "detail": "30–19 in Herbert debut."
+    },
+    {
+      "date": "Dec 1",
+      "title": "Bisons identity revealed",
+      "detail": "Name, logo and colors public. Stadium funding passed 92–8."
+    },
+    {
+      "date": "Dec 6",
+      "title": "Giants win",
+      "detail": "17–13 after 51–14 Houston win. Colts 5–7."
+    },
+    {
+      "date": "Dec 14",
+      "title": "Ascend exit",
+      "detail": "Remaining stake sold. Investment allocations approved, deployment pending."
+    },
+    {
+      "date": "Dec 31",
+      "title": "Irsay buyout and promotions",
+      "detail": "Bryan 81%. Bobby and Sarah presidents. Andy verbally accepts director role."
+    },
+    {
+      "date": "Jan 3",
+      "title": "Cleveland win",
+      "detail": "35–16. Colts 8–8 and eliminated. Hampton shoulder injury."
+    },
+    {
+      "date": "Jan 4",
+      "title": "Farewell and Syntergy planning",
+      "detail": "Mina call, employee transition review and proposed Seattle venture."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Bryan Luong",
+      "role": "Owner and GM",
+      "description": "81% owner after Dec 31 closing. Fully exited Ascend. User controls Bryan."
+    },
+    {
+      "name": "Quynh “Q” Luong",
+      "role": "Wife / expectant mother",
+      "description": "Independent, affectionate and teasing; competent lightly imperfect English. Pregnant with Braylee, due March 20, 2027; no birth yet."
+    },
+    {
+      "name": "Linda “Lindy” Harper",
+      "role": "Household assistant / chauffeur",
+      "description": "Iowa-born; Q coined nickname Jun 9 2023; $200K annual total, on-site detached suite; professional boundaries."
+    },
+    {
+      "name": "Rebecca Chen",
+      "role": "Legal adviser",
+      "description": "Precise, serious and protective; transitioning to background advisory role."
+    },
+    {
+      "name": "Steven",
+      "role": "Financial adviser",
+      "description": "Analytical, commercially experienced; transitioning to background advisory role."
+    },
+    {
+      "name": "Jonathan",
+      "role": "Bryan’s best friend",
+      "description": "Leads Ascend Seattle office. Prefers proposed Syntergy CEO role. Remains employed at Ascend pending legal review."
+    },
+    {
+      "name": "Carlie Irsay-Gordon",
+      "role": "Former owner",
+      "description": "Irsay exit closed. Ceremonial farewell involvement."
+    },
+    {
+      "name": "Casey Foyt",
+      "role": "Irsay family stakeholder",
+      "description": "Participated in negotiations."
+    },
+    {
+      "name": "Kalen Jackson",
+      "role": "Irsay family stakeholder",
+      "description": "Participated in negotiations."
+    },
+    {
+      "name": "Shane Steichen",
+      "role": "Head coach",
+      "description": "Confirmed for 2027. Extension agreed in principle. Controls coaching and starters."
+    },
+    {
+      "name": "Sarah Mitchell",
+      "role": "President of Business Operations",
+      "description": "Primary business contact. $400K. Leads transition."
+    },
+    {
+      "name": "Emily Parker",
+      "role": "Estate real estate agent",
+      "description": "Negotiated 12.4-acre Oklahoma property; not Sarah."
+    },
+    {
+      "name": "Jenny",
+      "role": "Q older sister",
+      "description": "Lives in OKC; hosted 2023/2024 family scenes."
+    },
+    {
+      "name": "Natalie",
+      "role": "Q older sister",
+      "description": "Lives in OKC; teasing family dynamic."
+    },
+    {
+      "name": "Andy",
+      "role": "Director of Logistics — verbally accepted",
+      "description": "Inherited employee. $170K, effective date/reporting/HR pending. Earned rapport. $11,500 personal offer unpaid."
+    },
+    {
+      "name": "Bobby Wagner",
+      "role": "President of Football Operations",
+      "description": "Reports directly to Bryan alongside Shane. Compensation amendment pending."
+    },
+    {
+      "name": "Emily Carter",
+      "role": "Executive assistant",
+      "description": "Secondary support and Sarah coverage. $130K effective Jan 1, paperwork pending."
+    },
+    {
+      "name": "Melissa Grant",
+      "role": "Colts communications director",
+      "description": "Manages press access; coordinating Friday interviews with Emily."
+    },
+    {
+      "name": "Daniel Mercer",
+      "role": "Independent Indianapolis reporter",
+      "description": "April OKC visit accepted in principle. Reporting remains independent."
+    },
+    {
+      "name": "Mina Kimes",
+      "role": "Journalist",
+      "description": "Leads farewell documentary. Evaluating separate Year One proposal."
+    },
+    {
+      "name": "Braylee",
+      "role": "Unborn daughter",
+      "description": "Q pregnant; expected due March 20, 2027. Do not assume birth on due date."
+    },
+    {
+      "name": "Pete Carroll",
+      "role": "Senior advisor — hired",
+      "description": "Enthusiastic about Herbert and attempted Williams trade; connected to Seattle. No invented contract terms."
+    },
+    {
+      "name": "Scot McCloughan",
+      "role": "Director of NFL Scouting",
+      "description": "Value, scouting, capital and depth; supported walking away from Golden. Exact formal title/contract unprovided."
+    },
+    {
+      "name": "Marcus Bennett",
+      "role": "Travel manager",
+      "description": "Confidential evaluation candidate: budgets, travel, vendors; unaware; no promotion."
+    },
+    {
+      "name": "Jennifer Park",
+      "role": "Facilities manager",
+      "description": "Confidential evaluation candidate: facilities and contractor coordination; unaware; no promotion."
+    },
+    {
+      "name": "David Ramirez",
+      "role": "Equipment / transportation manager",
+      "description": "Confidential evaluation candidate: operational decisions; unaware; no promotion."
+    },
+    {
+      "name": "Rachel Foster",
+      "role": "Logistics administration manager",
+      "description": "Confidential evaluation candidate: communication and administration; unaware; no promotion."
+    }
+  ],
+  "pets": [
+    {
+      "name": "Kona",
+      "description": "Female Red Heeler · 2021"
+    },
+    {
+      "name": "Luna",
+      "description": "Female Pembroke Corgi · 2022"
+    },
+    {
+      "name": "Kuma",
+      "description": "Male Cowboy Corgi · Mar 5 2023"
+    },
+    {
+      "name": "Bing",
+      "description": "Fluffy Ragdoll cat · June 2023"
+    },
+    {
+      "name": "Bo",
+      "description": "Black-and-white mischievous cat · June 2023"
+    }
+  ],
+  "open_threads": [
+    "Week 18, Hampton imaging and farewell speech",
+    "Stadium authority approval for original seat gifts, Jan 5 meeting pending",
+    "Jan 8 staff gatherings and employee transition",
+    "Farewell documentary final footage and Year One feasibility",
+    "Syntergy legal review, naming, formation, funding and Jonathan departure",
+    "Executive contracts and Andy HR and personal assistance",
+    "Stadium readiness, uniform approval, legacy trust and Love’s naming rights"
+  ],
+  "rules": [
+    "Bryan exclusively user-controlled",
+    "No V1 imports",
+    "Independent character knowledge and agency",
+    "Never invent unplayed games or transactions",
+    "Closed Colts acquisition and Ascend sale are established",
+    "Relocation approval remains separate",
+    "Q originated nickname Lindy June 9 2023",
+    "Daniel reserved exclusively for Daniel Mercer",
+    "Q pregnant; Braylee expected March 20 2027, birth unplayed",
+    "Do not disclose confidential relocation or logistics planning through narrator knowledge",
+    "No V2 Lindy romance established"
+  ],
+  "relocation": {
+    "status": "Approved 30–1–1 for 2027 and publicly announced",
+    "proposed_fee": 375000000,
+    "payment_years": 5,
+    "fee_approved": true,
+    "owners_briefing": "Nov 5 completed; no vote",
+    "state_city_funding_framework": "Approved",
+    "ou_agreement": "Full 2027 season",
+    "naming_rights": "Commercial terms unresolved",
+    "identity": "Colts name/history intended to remain in Indianapolis; legal framework unresolved",
+    "vote_target": "Completed November 11",
+    "submission": "Ownership resolution adopted. Detailed filing delivery not documented.",
+    "branding": "Name, primary logo and colors public. Uniform approval pending.",
+    "financing": "Stadium funding measure passed 92–8. Implementation details pending.",
+    "completion_guarantee": "Personal commitment, legal guarantee pending"
+  },
+  "knowledge_boundaries": {
+    "public": [
+      "Acquisition and ownership",
+      "Coaching security through 2026",
+      "No long-term Indianapolis guarantee",
+      "Conditional relocation help and fair compensation",
+      "Hudl clips and fictional ESPN article"
+    ],
+    "confidential": [
+      "Goodell discussions and proposed fee",
+      "Owners briefing and relocation planning",
+      "Six-month severance detail",
+      "Logistics succession evaluations"
+    ],
+    "rule": "No fabricated offscreen disclosures; individual knowledge requires an established source."
+  },
+  "logistics_evaluation": {
+    "candidates": [
+      "Andrew Andy Collins",
+      "Marcus Bennett",
+      "Jennifer Park",
+      "David Ramirez",
+      "Rachel Foster"
+    ],
+    "candidates_aware": false,
+    "favorite": null,
+    "promotion_guaranteed": false
+  },
+  "trades": [
+    {
+      "Partner": "Chargers",
+      "Indianapolis receives": "Justin Herbert, Omarion Hampton, 2027 5th #146",
+      "Indianapolis sends": "Daniel Jones, Josh Downs, 2027 2nd #40 (net after pick adjustment)"
+    },
+    {
+      "Partner": "Eagles",
+      "Indianapolis receives": "2027 2nd #46, 2028 5th #151",
+      "Indianapolis sends": "Anthony Richardson Sr., Grover Stewart, Michael Clemons"
+    },
+    {
+      "Partner": "Giants",
+      "Indianapolis receives": "2027 1st #11, Jack Kelly",
+      "Indianapolis sends": "Jonathan Taylor"
+    },
+    {
+      "Partner": "49ers",
+      "Indianapolis receives": "Brandon Aiyuk, Gracen Halton, 2027 2nd #47",
+      "Indianapolis sends": "Alec Pierce, Nick Westbrook-Ikhine"
+    },
+    {
+      "Partner": "Saints",
+      "Indianapolis receives": "Danny Stutsman, 2028 5th #136",
+      "Indianapolis sends": "Arden Key, Shaquill Griffin, Jerry Tillery"
+    },
+    {
+      "Partner": "Packers",
+      "Indianapolis receives": "Brandon Cisse, 2027 2nd #37, 2027 3rd #69, 2028 1st #20",
+      "Indianapolis sends": "Sauce Gardner, Charvarius Ward Sr."
+    },
+    {
+      "Partner": "Falcons",
+      "Indianapolis receives": "Billy Bowman Jr., 2027 1st #27",
+      "Indianapolis sends": "Camryn Bynum, 2027 3rd #72"
+    },
+    {
+      "Partner": "Seahawks",
+      "Indianapolis receives": "Jake Bobo, Nehemiah Pritchett, Rylie Mills, 2027 7th #219",
+      "Indianapolis sends": "Akeem Davis-Gaither, Drew Ogletree, Zach VanValkenburg"
+    },
+    {
+      "Partner": "Texans",
+      "Indianapolis receives": "Marvin Harrison Jr., Febechi Nwaiwu",
+      "Indianapolis sends": "Anthony Bradford, George Gumbs Jr., 2027 3rd #85, 2027 7th #219"
+    },
+    {
+      "Partner": "Rams",
+      "Indianapolis receives": "Josaiah Stewart",
+      "Indianapolis sends": "2027 7th #200, 2028 5th #160"
+    },
+    {
+      "Partner": "49ers (additional)",
+      "Indianapolis receives": "2027 4th #111, 2027 6th #192\\*",
+      "Indianapolis sends": "Keenan Allen"
+    }
+  ],
+  "pick_adjustment": {
+    "partner": "Chargers",
+    "sent": "2027 2nd #40",
+    "received": "2027 3rd #85",
+    "status": "Completed; #85 subsequently sent to Houston",
+    "note": "Separate adjustment; trade table shows net Herbert package."
+  },
+  "free_agent_signings": [
+    {
+      "Player": "Cole Strange",
+      "Position": "RG",
+      "OVR": "65",
+      "Contract": "2 years, $1.7M salary"
+    },
+    {
+      "Player": "Will Hernandez",
+      "Position": "RG",
+      "OVR": "68",
+      "Contract": "2 years, $1.7M"
+    },
+    {
+      "Player": "Evan Neal",
+      "Position": "RG",
+      "OVR": "65",
+      "Contract": "2 years, $1.7M"
+    },
+    {
+      "Player": "Jedrick Wills Jr.",
+      "Position": "LT",
+      "OVR": "70",
+      "Contract": "1 year, $1.85M"
+    },
+    {
+      "Player": "Clelin Ferrell",
+      "Position": "EDGE",
+      "OVR": "71",
+      "Contract": "1 year, $850K"
+    },
+    {
+      "Player": "Jeff Okudah",
+      "Position": "CB",
+      "OVR": "69",
+      "Contract": "1 year, $850K"
+    },
+    {
+      "Player": "Marcus Williams",
+      "Position": "FS",
+      "OVR": "72",
+      "Contract": "2 years, $1.71M"
+    },
+    {
+      "Player": "Isaiah Oliver",
+      "Position": "SS",
+      "OVR": "68",
+      "Contract": "1 year, $850K"
+    },
+    {
+      "Player": "Adrian Martinez",
+      "Position": "QB",
+      "OVR": "60",
+      "Contract": "1 year, $850K"
+    },
+    {
+      "Player": "Pierre Strong Jr.",
+      "Position": "HB",
+      "OVR": "69",
+      "Contract": "3 years, $2.55M"
+    },
+    {
+      "Player": "Xavier Legette",
+      "Position": "WR",
+      "OVR": "68",
+      "Contract": "3 years, $2.57M"
+    },
+    {
+      "Player": "Luke McCaffrey",
+      "Position": "WR",
+      "OVR": "68",
+      "Contract": "3 years, $2.57M"
+    },
+    {
+      "Player": "David Sills V",
+      "Position": "TE",
+      "OVR": "65",
+      "Contract": "2 years, $1.71M"
+    }
+  ],
+  "releases": [
+    {
+      "name": "Blake Grupe",
+      "position": "K",
+      "ovr": 71
+    }
+  ],
+  "depth_chart": {
+    "offense": [
+      {
+        "Position": "QB",
+        "Starter": "Justin Herbert",
+        "OVR": "78",
+        "Relevant depth": "Riley Leonard 64, Adrian Martinez 60"
+      },
+      {
+        "Position": "HB",
+        "Starter": "Omarion Hampton",
+        "OVR": "77",
+        "Relevant depth": "J. Patterson 72, Pierre Strong Jr. 69, D. Giddens 68"
+      },
+      {
+        "Position": "FB",
+        "Starter": "Colson Yankoff",
+        "OVR": "64",
+        "Relevant depth": "—"
+      },
+      {
+        "Position": "WR1",
+        "Starter": "Brandon Aiyuk",
+        "OVR": "78",
+        "Relevant depth": "Jake Bobo 70, Xavier Legette 68"
+      },
+      {
+        "Position": "WR2",
+        "Starter": "Marvin Harrison Jr.",
+        "OVR": "76",
+        "Relevant depth": "Other receivers not visible in screenshot"
+      },
+      {
+        "Position": "TE",
+        "Starter": "Tyler Warren",
+        "OVR": "81",
+        "Relevant depth": "David Sills V 65, Colson Yankoff 61"
+      },
+      {
+        "Position": "LT",
+        "Starter": "Bernhard Raimann",
+        "OVR": "82",
+        "Relevant depth": "Jedrick Wills Jr. 70"
+      },
+      {
+        "Position": "LG",
+        "Starter": "Jalen Farmer",
+        "OVR": "64",
+        "Relevant depth": "D. Tucker 62"
+      },
+      {
+        "Position": "C",
+        "Starter": "Tanor Bortolini",
+        "OVR": "79",
+        "Relevant depth": "S. Van Pran-Granger 63"
+      },
+      {
+        "Position": "RG",
+        "Starter": "Will Hernandez",
+        "OVR": "68",
+        "Relevant depth": "Evan Neal 65, Cole Strange 65"
+      },
+      {
+        "Position": "RT",
+        "Starter": "Matt Goncalves",
+        "OVR": "72",
+        "Relevant depth": "J. Travis 69, Jedrick Wills Jr. 67"
+      }
+    ],
+    "defense": [
+      {
+        "Position": "LEDGE",
+        "Starter": "Laiatu Latu",
+        "OVR": "79",
+        "Relevant depth": "C. Curry 65"
+      },
+      {
+        "Position": "DT1",
+        "Starter": "Adetomiwa Adebawore",
+        "OVR": "74",
+        "Relevant depth": "Tim Smith 65"
+      },
+      {
+        "Position": "DT2",
+        "Starter": "Gracen Halton",
+        "OVR": "66",
+        "Relevant depth": "Clelin Ferrell listed as positional depth"
+      },
+      {
+        "Position": "DT3",
+        "Starter": "Rylie Mills",
+        "OVR": "66",
+        "Relevant depth": "—"
+      },
+      {
+        "Position": "REDGE",
+        "Starter": "JT Tuimoloau",
+        "OVR": "71",
+        "Relevant depth": "Clelin Ferrell 71"
+      },
+      {
+        "Position": "SAM",
+        "Starter": "Bryce Boettcher",
+        "OVR": "67",
+        "Relevant depth": "J. Carlies 68"
+      },
+      {
+        "Position": "MIKE",
+        "Starter": "Danny Stutsman",
+        "OVR": "74",
+        "Relevant depth": "A. Ajiake 64, Jack Kelly 64"
+      },
+      {
+        "Position": "WILL",
+        "Starter": "CJ Allen",
+        "OVR": "71",
+        "Relevant depth": "W. Weeks 63, Jack Kelly 65"
+      },
+      {
+        "Position": "CB1",
+        "Starter": "Brandon Cisse",
+        "OVR": "75",
+        "Relevant depth": "Cam Taylor-Britt 70, Justin Walley 67"
+      },
+      {
+        "Position": "CB2",
+        "Starter": "Nehemiah Pritchett",
+        "OVR": "72",
+        "Relevant depth": "Jeff Okudah 69"
+      },
+      {
+        "Position": "FS",
+        "Starter": "Billy Bowman Jr.",
+        "OVR": "76",
+        "Relevant depth": "Marcus Williams 72, D. Scott 66"
+      },
+      {
+        "Position": "SS",
+        "Starter": "Terrell Edmunds",
+        "OVR": "72",
+        "Relevant depth": "A. Haulcy 70, H. Wohler 68"
+      }
+    ],
+    "status": "Latest displayed arrangement; defense edited, save unconfirmed; preserve slot OVR",
+    "injuries": [
+      "Josaiah Stewart acquired on IR; return unconfirmed",
+      "Brandon Aiyuk injury evaluation outstanding"
+    ],
+    "development": {
+      "Jalen Farmer": "Hidden",
+      "Gracen Halton": "Hidden",
+      "CJ Allen": "Hidden",
+      "Brandon Cisse": "Star"
+    }
+  },
+  "draft_capital": {
+    "2027": [
+      {
+        "Round": "1st",
+        "Picks": "#11 (NYG), #27 (ATL)"
+      },
+      {
+        "Round": "2nd",
+        "Picks": "#37 (GB), #46 (PHI), #47 (SF)"
+      },
+      {
+        "Round": "3rd",
+        "Picks": "#69 (GB)"
+      },
+      {
+        "Round": "4th",
+        "Picks": "#104 (IND), #111 (SF)"
+      },
+      {
+        "Round": "5th",
+        "Picks": "#136 (IND), #146 (LAC)"
+      },
+      {
+        "Round": "6th",
+        "Picks": "#168 (IND), #192 (listed as BAL origin)"
+      }
+    ],
+    "2028": [
+      {
+        "Round": "1st",
+        "Picks": "#16 (IND), #20 (GB)"
+      },
+      {
+        "Round": "2nd",
+        "Picks": "#48 (IND)"
+      },
+      {
+        "Round": "3rd",
+        "Picks": "#80 (IND)"
+      },
+      {
+        "Round": "4th",
+        "Picks": "#112 (IND)"
+      },
+      {
+        "Round": "5th",
+        "Picks": "#136 (NO), #144 (IND), #151 (PHI)"
+      },
+      {
+        "Round": "6th",
+        "Picks": "#176 (IND)"
+      },
+      {
+        "Round": "7th",
+        "Picks": "#208 (IND)"
+      }
+    ],
+    "total_picks": 22,
+    "note": "Displayed pick positions, not final slots. #192 listed Baltimore origin, acquired via SF."
+  },
+  "media": {
+    "mercer_interview": "Completed Nov 6 10:02–11:12 AM EST",
+    "mercer_article": "Expected Nov 8 before kickoff; publication unconfirmed",
+    "mina_interview": "Recorded Nov 6 1:00–1:51 PM EST; publication unconfirmed",
+    "guarantee": "Lombardi within five years; statement recorded, future outcome unplayed",
+    "documentary": "Privately proposed Nov 6 after cameras/audio stopped; no ESPN approval, contract, permissions or filming",
+    "public_information": "Do not assume unpublished interviews widely known."
+  },
+  "football_status": {
+    "record": "8–8",
+    "next_game": "Jan 10 final Indianapolis home game",
+    "playoffs": "Eliminated",
+    "hampton": "Out for season, shoulder diagnosis pending",
+    "giddens": "Available"
+  },
+  "employee_transition": {
+    "eligible_relocation": "100% approved expenses",
+    "severance": "Six months for eligible nonrelocating employees who work through transition",
+    "hr_consultations": "November 12",
+    "ticket_refunds": "100% affected 2027 renewals",
+    "charity": "100% of designated farewell merchandise revenue",
+    "moving": 192,
+    "staying": 92,
+    "estimated_cost": 9500000
+  },
+  "syntergy": {
+    "status": "Proposed, unformed",
+    "hq": "Seattle",
+    "ownership": "90/10 proposed",
+    "funding_cap": 30000000
+  }
+}

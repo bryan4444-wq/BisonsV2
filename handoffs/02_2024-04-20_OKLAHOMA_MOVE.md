@@ -1,0 +1,12 @@
+# V2 APRIL 20, 2024 — Historical continuity record
+
+Condensed from user-provided April 20 handoff; no invented intermediary scenes.
+
+- Dec 31 2023: Ascend ICT parent brand integrated two acquired firms, combined acquisition expenditure $40M, $10M shortened-year gross revenue. Future expansion allocation $100M. Profit, EBITDA, valuation and legal subsidiary structure not established.
+- Steven's illustrative Dec 31 portfolio valuation $286.8M allocated: $100M Ascend expansion, $30M Bitcoin maximum, $20M other ventures, $136.8M traditional portfolio. Plan not audited balance sheet.
+- Bitcoin: initial $20M purchase completed Jan 2024; additional $10M dip reserve ($3M at $38K, $3M at $34K, $4M at $30K). March 1 Steven estimated ~465 BTC at ~$43K average, ~$62K market price, ~$28.8M market value. Bryan instructed sale of $10M worth; execution price, filled amount, fees and proceeds allocation unconfirmed. Bryan hoped for $100K Bitcoin and 2025 cycle exit, not guaranteed.
+- Oklahoma estate: 12.4 acres, ~7,000 sq ft home, 12-car garage, pool, outdoor kitchen, garden and pet facilities; detached Lindy suite ~1,400 sq ft with kitchen, living room, bedroom, bath and office. March 9 first walkthrough; Daniel Foster project manager. By Apr 20 inspections passed, construction issues resolved, utilities/internet working, household/vehicles/pets relocated, family moved in. The supplied handoff also included “19001 W 41st St S, Sand Springs, OK 74063 (Updated 2/9)”, inconsistent with established north OKC/Edmond estate location; preserve as conflicting source text, not verified estate address.
+- Lindy Oklahoma compensation previously $150K plus $20K on-site = $170K; Bryan raised total to $200K effective April transition, **not** $200K plus $20K. Suite rent-free, conditional on residing there; hours/PTO/insurance/confidentiality/boundaries unchanged; no extra duties. She joked about $50K extra to mow 12 acres. Q wants to stock her kitchen at Asian market. Q's sisters Jenny and Natalie live locally.
+- No pregnancy or children established in V2.
+- Last scene Saturday Apr 20, 2024 6:25 PM CDT, Jenny's house OKC. Jenny served bún bò Huế; Natalie teased the “millionaires”; Lindy enjoyed soup. Jenny asked whether they planned to stay in Oklahoma for good, Natalie joked about helping move again, Q asked “Bae, tell them. We staying, right?” Bryan had not responded at that checkpoint.
+- NFL acquisition ambitions had not yet been introduced in-character at this point.
