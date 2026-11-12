@@ -1,0 +1,16 @@
+# Reconciliation notes — Archive 1.4
+
+- Current cutoff: Tuesday November 10, 2026, approximately 4:05 PM EST, Indianapolis Colts Training Facility. Deadline closed; front office has just finished laughing about the five-second-late Williams agreement. No next action chosen.
+- November 10 addendum supersedes older no-trades/no-signings statements and prospective Pete/Scot statuses. Preserve older statements as dated history only. Pete is senior advisor; Scot is personnel executive. Exact contract terms and Scot's final formal title unprovided. Bobby/Sarah employment paperwork completion remains unconfirmed.
+- Completed Dallas result: Colts lost 27–23 in intervening week. Exact game date, season record and box score unprovided. Do not invent them.
+- Eleven listed completed trade packages plus a separately described executed Chargers pick adjustment (#40 sent to regain #85). Preserve package count and adjustment separately; do not call it eleven total transaction actions. #85 later sent to Houston. No duplicate asset ownership.
+- Leonard Williams remains Seattle; verbal acceptance at 4:00:05 was invalid. Colts retain #69. Golden remains Green Bay; Colts retain #104. Neither negotiation creates a future obligation.
+- Pick numbers are current Madden-displayed positions, not final draft slots. #192 arrived from SF but current inventory lists Baltimore origin; inventory controls ownership/origin display.
+- Depth chart is displayed snapshot; defensive screen was being edited, saved assignments unconfirmed. Positional OVR can differ; preserve each displayed number. Abbreviated names stay abbreviated. No full unseen roster invented.
+- Aiyuk and Josaiah Stewart injury evaluation unresolved; Stewart acquired on IR, return unknown. Contract amounts are Madden salary displays, not automatically total contract values.
+- Relocation still pending. Fee proposal $375M over FIVE years supersedes ten years. Nov 11 vote targeted, not guaranteed. Submission delivery, OU signatures and ESPN approval unconfirmed.
+- Recorded Super Bowl promise exists; ESPN interview publication/public reactions unconfirmed. Private documentary proposal is not approved/contracted; filming not begun. Emily promised Sarah an update, receipt unshown. Mercer Sunday article expected; publication not established, even though cutoff is now Nov 10.
+- Daniel naming restriction applies to invented NPCs; Daniel Jones is retained as explicitly supplied real-player transaction identity. Earlier historical duplicate invented names remain source text, not permission to create new Daniels. No silent renaming.
+- Q pregnancy and March 20, 2027 due date supersede older no-pregnancy status; birth unplayed.
+- Original December 2022 winning-ticket wording and newer January 2023 net-receipt wording retained; exact settlement timing unverified. Employee severance eligibility wording differs between older conditional contract summary and later broader promises; retain sources without inventing amendments.
+- Updates 1.2, 1.3 and latest deadline addendum integrated into full 1.1 base; original website/assets, dated handoffs and fictional ESPN article preserved. 1.2 record is a labeled summary; attached 1.3 and Nov 10 texts preserved verbatim. No outcomes imported from V1.

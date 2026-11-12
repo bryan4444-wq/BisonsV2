@@ -90,7 +90,7 @@ No home purchase, restaurant visit, or additional personal commitment has occurr
 
 Proposed — not legally formed
 
-Jonathan, Bryan's longtime friend and former Ascend ICT business partner, proposes establishing a midmarket technology services company focused on infrastructure engineering, cybersecurity, managed networking, and consulting.
+Jonathan, Bryan's longtime friend who has led Ascend's Seattle office, proposes establishing a midmarket technology services company focused on infrastructure engineering, cybersecurity, managed networking, and consulting.
 
 The concept may eventually expand into government infrastructure and data centers.
 
@@ -146,7 +146,7 @@ Jonathan agrees not to resign, recruit Ascend employees, or approach Ascend clie
 
 ## 6. Relationship and character updates
 
-Jonathan: Remains Bryan's best friend and trusted former cofounder. Excited about the opportunity to build another company together. Wants to earn his way toward equal ownership rather than receive it automatically. His banter with Bryan includes frustration that Bryan has now named both companies.
+Jonathan: Remains Bryan's best friend and an Ascend Seattle leader. Excited about the opportunity to build another company together. Wants to earn his way toward equal ownership rather than receive it automatically. His banter with Bryan includes frustration that Bryan has now named both companies.
 
 Rebecca Chen: Providing legal guidance on the proposed venture. Will prepare preliminary terms, review employment restrictions, and coordinate with Steven on the funding framework. Her role remains professional and advisory.
 
@@ -158,7 +158,7 @@ Bryan's family: Bryan specifically requests that any future Seattle headquarters
 
 Rebecca's legal review of Jonathan's Ascend obligations and potential departure
 
-Ascend COO offer — Jonathan has expressed his preference but has not formally declined
+Potential Ascend COO role — institutional investors discussed an offer
 
 Trademark, registration, and domain clearance for Syntergy Technologies
 
@@ -170,7 +170,7 @@ Jonathan's initial business plan, recruitment strategy, and Seattle headquarters
 
 Friday, January 8 employee farewell gatherings
 
-Tuesday, January 5 stadium-authority approval for removal and distribution of original Lucas Oil Stadium seats
+Tuesday, January 5 stadium-authority review for original Lucas Oil Stadium seats. Approval pending.
 
 Sunday, January 10 final Indianapolis Colts game and farewell ceremony
 
