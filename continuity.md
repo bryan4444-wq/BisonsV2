@@ -1,16 +1,18 @@
-# Bisons V2 — Current canon through Archive 1.9.5
+# Bisons V2 — Current canon through Archive 1.9.10
 
-**Resume Monday, January 4, 2027, at 11:05 AM EST, Colts headquarters executive conference room.** Jonathan's call ended and his text jokes that Bryan named both companies. Bryan alone chooses his next action.
+**Resume February 1, 2027 · 8:38 PM CST, private screening venue in Oklahoma City.** Mina asks Bryan what he thought of the completed farewell film. Bryan alone chooses his response.
 
 Use explicit corrections first, then played V2 events, original V2 foundations and incremental summaries. V1 is inspiration only. Read the archived December canon bible for relationships and use subsequent addenda for changes.
 
-- Indianapolis is 8–8 and eliminated. Week 18 on Jan 10 is the final Indianapolis home game. Hampton is out with a shoulder injury awaiting diagnosis, Giddens available. Final score, opponent and speech remain open.
+- Indianapolis beat Jacksonville 20–14 in Week 18 and finished 9–8, out of the playoffs. The farewell photo, player speeches and employee field gathering took place. Hampton has a shoulder sprain and partial ACL tear. Treatment and recovery timing remain open.
 - Bryan sold his remaining Ascend stake Dec 14 and completed the $2.04B Irsay buyout Dec 31. Bryan owns 81%, Oklahoma syndicate 19%, Irsay family 0%. Individual syndicate allocations remain disputed. Estimated outside assets/liquidity $2.52062B includes investments. Portfolio deployment and final tax reconciliation remain open.
 - Bryan is Owner/GM. Bobby and Shane report directly to him and lead football operations and coaching respectively. Bobby accepted President of Football Operations, revised terms pending. Shane is 2027 head coach with a further extension agreed in principle. Sarah is President of Business Operations and primary executive contact. Emily coordinates administrative work and covers Sarah when needed. Andy verbally accepted Director of Logistics at $170K, effective date, reporting and HR pending. His $11,500 personal assistance remains pending. Andy is an inherited employee with earned rapport.
-- Relocation approved, Bisons branding public, uniforms pending. Norman has a full-season agreement. MAPS measure passed 92–8. Downtown and Lake Hefner targets are prospective. Legacy trust paperwork unverified.
-- Mina's Indianapolis farewell documentary is in production. Year One remains a separate proposal. Seat distribution awaits stadium authority approval. Jan 8 employee farewells scheduled. Preserve the 100% qualifying merchandise revenue pledge while clarifying separate auction net-profit language.
+- Relocation approved, Bisons branding public, uniforms pending. Norman has a full-season agreement. MAPS measure passed 92–8. Lake Hefner HQ and practice facilities are approved for opening. Logistics are finalized under Bryan and Andy, and the move is scheduled for February 10. Downtown stadium readiness remains open. Legacy trust paperwork unverified.
+- Mina and Rachel screened the finished 98-minute film privately February 1. Public release is open. Year One remains a separate proposal. The seat giveaway remains confidential, with signature and engineering outstanding. The 7% bonus for all 284 employees is approved, payment unconfirmed. The Irsays have no continuing role. Bryan owes Frank and Tommy a Combine dinner with Bobby and Scot. Preserve the 100% qualifying merchandise revenue pledge while clarifying separate auction net-profit language.
 - Syntergy is a proposed Seattle company. The 90/10 ownership, up to $30M and executive terms are preliminary. Jonathan remains at Ascend. His Seattle leadership is stated in 1.9.5, but its cofounder description conflicts with earlier unresolved founding-role records. Mercer remains independent absent an established affiliation change. Andy's historical $82K/$89K discrepancy remains open.
 
+
+Read current_handoff_2027-02-01.md, continuity.md, data.json and bisons-v2-canon-bible-january-2027.md. Report inaccessible sources. Wait for Bryan to begin. Reserve 2.0 for offseason.
 
 ---
 
@@ -3457,3 +3459,605 @@ Household assistant/chauffeur posted at $120K annually with Washington start and
 ## 2026 Madden season results addendum
 
 Final record 9–8, second in the AFC South. Indianapolis beat Jacksonville 20–14 in Week 18. The Madden schedule corrects Week 9 vs Dallas to a 13–34 loss. See [schedule and standings](schedule.html). The Madden injury report lists Hampton with a Week 16 partial ACL tear, while the January 4 narrative handoff records a Week 17 shoulder injury. Reconciliation remains open. The last played scene remains January 4 at 11:05 AM EST.
+
+---
+
+### Tuesday, January 5, 2027 — 5:18 PM EST
+
+Indianapolis Colts Headquarters · Staff Lounge
+
+Sarah Mitchell: "We'll revisit Friday's farewell program, then. After today's conversations, I think we can make it more personal and avoid repeating everything you just announced."
+
+Emily Carter: "I'll keep the existing Friday event on the calendar and work with Sarah on a revised program. Nothing gets finalized without your review."
+
+Sarah nods.
+
+Sarah: "And we'll make sure the ninety-two departing employees still have their own private farewell. Today's gathering doesn't replace that."
+
+## Oklahoma City Bisons V2 — Continuity Handoff
+
+Incremental update following Archive 1.9.5
+
+Coverage: January 4, 2027, 11:05 AM EST → January 5, 2027, 5:18 PM EST
+
+Canon rules: This update supplements previous archives rather than replacing them. Unchanged canon carries forward. Plans remain plans until confirmed, and the January 10 Jacksonville game remains unplayed.
+
+## 1. Timeline additions
+
+| Date / time (EST)        | New development                                                                                       |
+| ------------------------ | ----------------------------------------------------------------------------------------------------- |
+| Jan 4, after 11:05 AM    | Bryan continues final-week preparations. Mina Kimes's Indianapolis documentary remains in production. |
+| Jan 5, 9:24–9:46 AM      | Lucas Oil Stadium authority meeting. Conditional approval secured for the original-seat giveaway.     |
+| Jan 5, 11:38–11:55 AM    | Bobby Wagner meeting: 2027 expectations, Hampton injury, Week 18 starters, Bryan's pregame speech.    |
+| Jan 5, 11:57 AM–12:19 PM | Bryan schedules an informal 4 PM gathering for employees staying in Indianapolis.                     |
+| Jan 5, 4:02–4:39 PM      | Bryan meets employees individually, addresses concerns, and approves several transition initiatives.  |
+| Jan 5, 4:40–5:03 PM      | Bryan requests that departing attendees return and remote employees reconnect for an announcement.    |
+| Jan 5, 5:05 PM           | Bryan announces additional bonuses and inaugural-stadium invitations for all 92 departing employees.  |
+| Jan 5, 5:11–5:13 PM      | Stadium capacity clarified as 87,000 seats; inaugural-game invitation clarified.                      |
+| Jan 5, 5:17–5:18 PM      | Bryan instructs Sarah and Emily to revisit Friday's farewell program.                                 |
+
+## 2. Lucas Oil Stadium — original-seat giveaway
+
+Status: Conditionally authorized, not yet executed.
+
+Bryan met with stadium authority executive Margaret Whitcomb, stadium operations representative Thomas Reynolds, attorney Rebecca Chen, and logistics director Andy.
+
+Bryan's proposal:
+
+- Eligible Colts season-ticket holders receive their actual assigned original Lucas Oil Stadium seats, not replicas.
+- Distribution occurs after the January 10 final home game.
+- The organization covers approved removal, replacement, inspection, packaging, insured shipping, and delivery.
+- Fans cannot personally remove seats.
+- Shared or interlocking mounting hardware will be handled through approved stadium maintenance procedures.
+- Exceptions require individual review; substitutions are not automatically authorized.
+
+Margaret granted conditional authorization subject to written agreements, engineering surveys, section work plans, and inspections.
+
+Rebecca handles legal documentation. Andy and Thomas coordinate operations.
+
+Critical secrecy rule: Season-ticket holders do not know about the seat giveaway or accompanying surprise gift package. The announcement has not happened. Knowledge remains restricted to the approved operational circle.
+
+Margaret is herself a season-ticket holder in section 412. Bryan jokingly offered an early pickup so she could surprise her husband; Rebecca clarified that no preferential treatment may be granted.
+
+No seat removal has occurred.
+
+## 3. Football operations — Bobby Wagner meeting
+
+Bryan established the following 2027 expectations:
+
+- Making the playoffs is the primary objective.
+- Winning the Super Bowl would be a bonus, not a prerequisite for a successful season.
+- No reckless sacrificing of future draft assets to chase short-term results.
+- Sustainable roster construction remains the priority.
+
+### Omarion Hampton injury update
+
+The previous archive's unresolved shoulder diagnosis has advanced.
+
+Confirmed in RP: Hampton has a shoulder sprain, and medical evaluation also identified a partial ACL tear.
+
+He is ruled out for Week 18 against Jacksonville.
+
+Further orthopedic assessment, treatment decisions, surgery status, and recovery timeline remain unresolved. Do not assume availability for the 2027 opener.
+
+DJ Giddens remains available.
+
+### Week 18 instructions
+
+Bryan instructed Bobby that healthy regular starters should play normally against Jacksonville on January 10, subject to standard medical judgment.
+
+Bryan also accepted Bobby's request to deliver a pregame locker-room speech before the final Indianapolis Colts game.
+
+The speech has not been delivered or written.
+
+The Week 18 game remains unplayed. Indianapolis is 8–8 and eliminated from playoff contention.
+
+## 4. January 5 employee gathering
+
+The gathering was deliberately informal, with catered food, no media, and initially no scheduled speech.
+
+# 92
+
+Staying in Indy
+
+# 78
+
+Initially in person
+
+# 9
+
+Initially remote
+
+Five employees were initially unavailable. Some in-person attendees later departed and returned or reconnected remotely at Bryan's request. Final attendance was not numerically confirmed.
+
+### New employee characters
+
+Frank Delaney — Senior Equipment Assistant
+
+- Twenty-four years with the Colts, employed since 2003.
+- Staying in Indianapolis because of family, grandchildren, and his wife's approaching retirement.
+- Grandson Tommy is seven years old.
+- Bryan personally invited Tommy to visit his grandfather's workplace before the final game.
+- Frank is warm, outspoken, nostalgic, and frequently jokes with Marcus.
+
+Marcus Hill — Equipment Coordinator
+
+- Six years with the Colts.
+- Relocating to Oklahoma City.
+- Friendly, energetic, and comfortable teasing Frank.
+- Has an established workplace friendship with Frank.
+
+Denise Walker — Senior Ticketing Services Representative
+
+- Nineteen years with the Colts.
+- Staying in Indianapolis.
+- Deeply concerned about season-ticket holders, account closures, records, memorabilia, and customer support.
+- Bryan reassured her that the organization will maintain a post-game transition period rather than immediately abandoning Indianapolis operations.
+- Denise does not know about the secret seat giveaway.
+
+Linda Patterson — Payroll Specialist
+
+- Twenty-two years with the Colts.
+- Staying in Indianapolis.
+- Worried about finding new employment after more than two decades with one organization.
+- Appreciates the severance and new career-transition assistance.
+
+Robert Ellis — Facilities Maintenance Supervisor
+
+- Seventeen years with the Colts.
+- Helped prepare Lucas Oil Stadium for its 2008 opening.
+- Staying in Indianapolis.
+- Asked Bryan directly why Indianapolis had to lose its team.
+- Bryan explained that he would have preferred an NFL expansion franchise, but Indianapolis was the available acquisition opportunity.
+- Robert understands the explanation but remains unhappy about the relocation.
+- Respects Bryan's treatment of employees without necessarily supporting the move.
+
+Patricia Moreno — Community Relations Manager
+
+- Fourteen years with the Colts.
+- Staying because she helps care for her 78-year-old mother.
+- Maintains relationships with children's hospitals, food banks, schools, and Indianapolis nonprofits.
+- Proposed preserving charitable relationships through a locally operated, minimally branded program.
+- Bryan agreed to explore the idea and instructed Patricia to work with Sarah's team.
+
+## 5. New employee commitments
+
+Additional departure bonus
+
+Approved by Bryan
+
+# 7%
+
+All 92 Indianapolis non-relocating employees will receive a seven-percent bonus in their next paycheck, in addition to their existing six-month severance commitment.
+
+The bonus calculation basis has not been specified. Payroll and Finance must confirm the mechanics. Do not assume seven percent of annual salary without clarification.
+
+Career transition assistance
+
+Bryan authorized resume assistance and a local Indianapolis job fair in February 2027.
+
+Sarah and HR will coordinate consultations, interview preparation, participating employers, and event logistics. No employers or venue have been confirmed.
+
+Former-employee visit portal
+
+Bryan approved a portal allowing former employees to arrange day visits to Oklahoma City facilities.
+
+Sarah proposed standard scheduling and security screening. The portal has not yet been developed.
+
+Inaugural downtown stadium invitation
+
+# 184 tickets
+
+Two tickets for each of the 92 departing employees: one for the employee and one guest.
+
+The Bisons will cover travel and lodging for both people. Employees will use a portal to maintain contact and guest information.
+
+This invitation is specifically for the first game at the permanent downtown Oklahoma City stadium, not the first temporary home game at Gaylord.
+
+No inaugural-game date is confirmed.
+
+## 6. Downtown Oklahoma City stadium
+
+Newly clarified capacity: 87,000 seats.
+
+Bryan corrected Marcus's reference to an 80,000-seat stadium.
+
+This supersedes the previous approximate 80,000-plus capacity description for the proposed permanent stadium.
+
+Frank joked about whether the stadium would be worth the trip. Bryan promised that visitors would be amazed by what had been built.
+
+The stadium remains prospective. Its construction, completion date, and inaugural game have not occurred.
+
+## 7. Indianapolis charitable legacy
+
+Patricia raised concerns about the community partnerships that could disappear when the team relocates.
+
+Bryan agreed to explore a locally operated program supporting Indianapolis organizations, without necessarily using Bisons branding or requiring Bisons players to appear.
+
+Assigned follow-up: Patricia works with Sarah's business operations team.
+
+The team will explore existing nonprofit partnerships, costs, funding structures, and legal considerations with Rebecca.
+
+No permanent program, funding amount, name, or legal entity has been approved.
+
+The previously established farewell-merchandise charitable pledge remains separate and unchanged.
+
+## 8. Friday, January 8 — farewell program
+
+Status: Scheduled, revision requested.
+
+Previously established:
+
+- Afternoon farewell event for all 284 full-time employees.
+- Separate, more private gathering for the 92 employees remaining in Indianapolis.
+
+After the January 5 gathering, Emily asked whether to retain the original Friday program.
+
+Bryan explicitly instructed Sarah and Emily to revisit it.
+
+Sarah agreed to develop a more personal program, avoid unnecessarily repeating January 5 announcements, and preserve the separate gathering for the 92 departing employees.
+
+No revised agenda has been presented or approved.
+
+## 9. Character and relationship developments
+
+| Character         | Continuity update                                                                                                                                                                        |
+| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Sarah Mitchell    | Continues acting as the competent primary business executive. Responsible for HR transition commitments, charitable proposal, stadium invitation logistics, and Friday program revision. |
+| Emily Carter      | Coordinated the return of employees and remote attendees. Responsible for communications, contact information, scheduling, and supporting Sarah.                                         |
+| Frank Delaney     | Developed a personal rapport with Bryan. Tommy's possible visit and Frank's future OKC trip are meaningful follow-up threads.                                                            |
+| Robert Ellis      | Respectful but unconvinced by relocation. Do not portray him as suddenly enthusiastic about the Bisons.                                                                                  |
+| Patricia Moreno   | Potential key contributor to preserving Indianapolis charitable relationships. No new employment or paid advisory role offered.                                                          |
+| Denise Walker     | Appreciates the transition support and alumni invitation; remains protective of Indianapolis fans.                                                                                       |
+| Bobby Wagner      | Has clear 2027 performance expectations and the responsibility to address Hampton's injury and Week 18 readiness.                                                                        |
+| Margaret Whitcomb | Cooperative stadium-authority official, subject to legal and procedural safeguards. Knows the seat plan, not the contents of the surprise gift package.                                  |
+
+## 10. Open threads and unresolved decisions
+
+- January 10: Final Colts home game against Jacksonville; result unknown. Bryan's pregame speech pending.
+- Hampton: Orthopedic treatment plan, recovery timetable, and longer-term roster implications unresolved.
+- Seat giveaway: Written authorization, engineering survey, operational schedule, and eventual surprise announcement pending.
+- Friday January 8: Sarah and Emily must present the revised farewell program.
+- Employee bonuses: Payroll must establish the seven-percent calculation basis and process payment.
+- February job fair: Employer outreach, location, date, and services pending.
+- Alumni portal: Design, security, eligibility, and launch pending.
+- Inaugural stadium invitation: Travel arrangements and game date pending.
+- Indianapolis charitable initiative: Patricia and Sarah to develop a proposal; no funding commitment yet.
+- Frank and Tommy: Workplace visit offered but not yet scheduled.
+- Stadium: 87,000-seat target established; construction and opening timeline remain prospective.
+- All prior unresolved canon: Syntergy, ownership allocation questions, ESPN productions, contracts, and other outstanding items carry forward unchanged.
+
+## 11. Exact resume checkpoint
+
+Tuesday, January 5, 2027
+
+5:18 PM EST
+
+Location: Indianapolis Colts Headquarters, staff lounge.
+
+The informal employee gathering has concluded. Most employees have departed.
+
+Sarah Mitchell and Emily Carter remain with Bryan.
+
+Bryan has just instructed them to revisit Friday's farewell program. Sarah and Emily have agreed to prepare a revised version without finalizing it independently.
+
+Next action belongs to Bryan. The RP can continue this conversation, move to another activity, or advance time only at his direction.
+
+Archive designation: `1.9.6` — incremental continuation of `1.9.5`. No previously established outcomes are overwritten except where explicitly updated above.&#x20;
+
+---
+
+# Oklahoma City Bisons V2 — Continuity Archive 1.9.7
+
+Incremental handoff · January 5, 2027, 5:18 PM → January 6, 2027, 12:34 PM EST
+
+Previous checkpoint: Archive 1.9.6\
+Current in-universe date: Wednesday, January 6, 2027\
+Current location: Indianapolis Colts Headquarters\
+Next scene: Daniel Mercer interview, tentatively scheduled for 1:00 PM EST.
+
+This handoff records only developments since Archive 1.9.6. All unchanged ownership, personnel, roster, financial, stadium, and character canon carries forward from previous archives.
+
+## 1. January 6 — Morning executive business
+
+### 8:37–8:51 AM — Emily and Carlie
+
+Bryan arrived at Colts headquarters and received updates from Emily Carter.
+
+Stadium-seat giveaway: Bryan instructed Emily to arrange a delegation of signing authority to Sarah Mitchell for the Lucas Oil Stadium original-seat giveaway agreement. Rebecca Chen is preparing the legal paperwork. The delegation and underlying agreement have not yet been executed.
+
+Omarion Hampton: Bobby Wagner is awaiting the medical team's final assessment of Hampton's shoulder sprain and partial ACL tear. Bryan asked Bobby to handle the medical briefing and bring him the recommendations afterward. No surgery decision or recovery timeline has been established.
+
+Carlie Irsay-Gordon: Bryan spoke with Carlie about the January 10 final Colts game.
+
+Confirmed arrangements:
+
+- Pregame farewell ceremony targeted for approximately 20 minutes before kickoff.
+- Carlie speaks first, followed by Bryan.
+- Carlie's sisters, Casey and Kalen, may stand beside her on the field.
+- Carlie will coordinate her remarks and ceremony logistics with Sarah and stadium operations.
+
+Bryan confirmed his family guest group for Sunday: Quynh, Lindy, Quynh's sisters Jenny and Natalie, niece May, Bryan's father, four younger siblings, and Uncle Steven, a devoted San Francisco 49ers fan.
+
+All are already accommodated in the owner's suite. Carlie was invited to meet them, and she expressed interest in doing so, possibly with her sisters. No meeting has occurred yet.
+
+## 2. Breakfast with Herbert and Warren
+
+8:57–9:19 AM — Players' dining facility
+
+Bryan ate breakfast with Justin Herbert and Tyler Warren.
+
+They discussed the emotional significance of the final Indianapolis game and the importance of finishing the season 9–8.
+
+Bryan described the transition:
+
+> "Gotta close the book to start a new one, right guys?"
+
+Important new stadium development: Bryan told Herbert and Warren that he believes the permanent downtown Oklahoma City stadium might be cleared to open by Week 1 of the 2027 season, while explicitly cautioning that nothing is guaranteed.
+
+This is a significant change in outlook, not a confirmed construction milestone or approved opening date. The previous plan for temporary games at Gaylord Family–Oklahoma Memorial Stadium remains the fallback until formally revised.
+
+Warren was excited about the possibility of playing before 87,000 fans. Herbert was interested but cautious. Bryan declined to reveal more details.
+
+Confidentiality note: Herbert and Warren now know Bryan considers a Week 1 permanent-stadium opening possible. There has been no public announcement.
+
+## 3. January 6 — Team meeting
+
+11:27 AM–12:09 PM — Main team meeting room
+
+Shane Steichen assembled the team following position meetings. Bobby Wagner introduced Bryan.
+
+Rather than delivering a conventional owner speech, Bryan spontaneously invited four members of the organization to address the team.
+
+### Luke Rhodes — The Indianapolis veteran
+
+Bryan introduced long snapper Luke Rhodes, who has been with the Colts since 2016.
+
+Rhodes spoke about his decade in Indianapolis, the constant turnover of teammates and coaches, and the fans and staff who sustained the organization.
+
+His central message was that the players cannot change the relocation, but they can control how they leave Indianapolis.
+
+Character note: Rhodes responded with dry humor to being unexpectedly called forward, then delivered a thoughtful, personal speech.
+
+### Danny Stutsman — The Oklahoma perspective
+
+Bryan introduced Danny Stutsman as an Oklahoma alumnus who joined the Colts during the trade-deadline roster overhaul.
+
+Stutsman discussed his years at OU, Oklahoma's football culture, and the anticipation surrounding the Bisons' arrival.
+
+He acknowledged that he cannot fully understand the attachment longtime Colts players have to Indianapolis.
+
+His message was to honor Indianapolis on Sunday before embracing Oklahoma City.
+
+Character note: Enthusiastic and confident, especially when discussing Oklahoma, but respectful of the veterans' feelings.
+
+### Justin Herbert — The midseason turnaround
+
+Bryan introduced Herbert as the quarterback who inherited a 2–7 team and helped bring it to 8–8.
+
+Herbert emphasized that the turnaround was a collective achievement rather than his alone.
+
+He reflected on arriving from the Chargers midseason, adapting to a new organization, and discovering a locker room that had not given up.
+
+His message was to finish 9–8 and give Indianapolis one final victory.
+
+### Shane Steichen — The head coach
+
+Bryan jokingly asked Shane what it felt like to have a new boss arrive and dismantle his roster.
+
+Steichen corrected Bryan's recollection of his arrival: he joined Indianapolis in 2023, not 2022.
+
+Shane acknowledged that the aggressive personnel changes had been difficult and that he disagreed with some moves.
+
+He also credited Bryan and Bobby with allowing the coaching staff to coach rather than interfering with play-calling.
+
+His message centered on preparation, execution, and finishing the season properly.
+
+Character note: Dry humor, candid about football decisions, professional rather than blindly agreeable.
+
+### Bobby Wagner — President of Football Operations
+
+Bryan introduced Bobby as a future first-ballot Hall of Fame linebacker.
+
+Bobby joked that he appreciated the campaign but hadn't received his Hall of Fame call.
+
+He reflected on his long association with Seattle and his understanding of what a franchise means to its home city.
+
+He acknowledged Bryan's unusually aggressive approach to rebuilding the organization and reinforced the goal of sustainable success.
+
+His central message:
+
+> "Sunday belongs to Indianapolis."
+
+Bobby emphasized that the team should focus on the people of Indianapolis before turning toward the Bisons' future.
+
+## 4. Bryan's closing speech
+
+Approximately 12:01 PM EST
+
+Bryan asked the original Week 1 Colts players to remember teammates no longer with the organization.
+
+He then asked the midseason arrivals to remember where they had been at the beginning of the season.
+
+Finally, he directed everyone to focus on the teammates standing beside them.
+
+He acknowledged that NFL rosters inevitably change, that friendships cross organizational boundaries, and that familiar faces may be gone next season.
+
+His concluding message:
+
+> "BUT THAT ISN'T WHAT MATTERS. WHAT MATTERS THIS WEEK IS THAT WE GO OUT THERE, AND WE GIVE THE PEOPLE OF INDY A GAME TO REMEMBER!"
+>
+> "GO COLTS!!!"
+
+The room responded enthusiastically. Bobby brought the team into a huddle, and Luke Rhodes led the closing "COLTS!" chant.
+
+Outcome: The meeting concluded with strong player engagement. No football game result, roster transaction, or additional commitment was established.
+
+## 5. Postgame arrangements and Hampton
+
+12:07–12:11 PM EST
+
+Bobby asked Bryan to authorize additional time on the Lucas Oil Stadium field for longtime Indianapolis veterans following Sunday's final whistle.
+
+Bryan approved without hesitation:
+
+> "Of course. I wouldn't want it any other way."
+
+Bobby will coordinate with Shane and stadium operations to ensure players aren't rushed off the field after the game.
+
+This is now an approved operational direction, but exact timing and security arrangements remain pending.
+
+Bobby subsequently received word that the medical team was ready to discuss Hampton.
+
+Bryan declined to attend personally, instructing Bobby to bring him the medical recommendations because he had other priorities.
+
+Bobby committed to ensuring Hampton understands his treatment options and isn't rushed into a decision.
+
+Still unresolved: Surgical versus nonsurgical treatment, rehabilitation schedule, and projected availability for 2027.
+
+## 6. Friday employee farewell — Approved
+
+12:20–12:27 PM EST — Sarah Mitchell's office
+
+Sarah presented a revised Friday, January 8 farewell program, which Bryan approved in full.
+
+| Time    | Program                                                                                             |
+| ------- | --------------------------------------------------------------------------------------------------- |
+| 1:00 PM | All 284 employees: brief leadership remarks, service recognition, group photograph                  |
+| 2:15 PM | Informal departmental gatherings                                                                    |
+| 3:30 PM | Private reception for 92 Indianapolis-based departing employees, with relocating colleagues welcome |
+
+Additional approved details:
+
+- Commemorative printed booklet recognizing employee service.
+- Brief onstage recognition of longest-tenured employees.
+- No lengthy awards ceremony.
+- No repeat of Bryan's January 5 emotional address.
+- No mandatory receiving line or scheduled owner conversations.
+
+Bryan clarified his personal approach to the reception:
+
+> "I'll just sit at the table and enjoy my food. Whoever wants to chat can come chat."
+
+Sarah accepted this as the plan. Bryan will attend as an approachable participant, not the centerpiece of the reception.
+
+Patricia Moreno's Indianapolis charitable initiative: Patricia has begun preparing an initial outline. Sarah will review it before presenting anything to Bryan. No funding, legal structure, or public announcement approved.
+
+## 7. Daniel Mercer interview
+
+12:34 PM EST — Executive corridor
+
+Emily informed Bryan that Indianapolis Star reporter Daniel Mercer requested a brief interview about the Colts' final week in Indianapolis.
+
+Bryan instructed Emily to schedule Sarah first, then Daniel.
+
+Sarah's meeting has concluded.
+
+Emily arranged a tentative interview for 1:00 PM EST, approximately 20 minutes, in a small conference room at Colts headquarters.
+
+Expected setup: Daniel, notebook, audio recorder; no photographer.
+
+Expected subjects include the relocation, Indianapolis fans, and the final game.
+
+The interview has not begun. No questions have been asked or answered.
+
+## 8. Updated unresolved threads
+
+| Thread                            | Current status                                                           |
+| --------------------------------- | ------------------------------------------------------------------------ |
+| Week 18 vs. Jacksonville          | Sunday, January 10; unplayed, Colts 8–8                                  |
+| Final pregame ceremony            | Carlie first, Bryan second; approximately 20 minutes before kickoff      |
+| Carlie's sisters                  | Casey and Kalen approved to stand with her                               |
+| Bryan's family                    | Owner's suite arranged; Carlie may visit                                 |
+| Permanent OKC stadium             | Bryan believes Week 1 opening may be possible; unconfirmed               |
+| Hampton medical recommendations   | Bobby handling; report pending                                           |
+| Postgame veterans' field time     | Bryan approved; Bobby coordinating                                       |
+| Stadium-seat giveaway             | Sarah delegation being drafted; agreement not signed; still confidential |
+| Friday employee farewell          | Revised program approved; execution pending                              |
+| Indianapolis charity initiative   | Patricia drafting; no commitments                                        |
+| Daniel Mercer interview           | Tentatively 1:00 PM; not started                                         |
+| Colts farewell game and outcome   | No result established                                                    |
+| Bryan's Sunday locker-room speech | Previously agreed; not yet delivered                                     |
+
+## 9. Continuity safeguards
+
+- Archive 1.9.7 is incremental. Do not reconstruct or overwrite the previous archives.
+- The stadium-seat giveaway remains confidential. Neither the team speeches nor employee events disclosed it.
+- A possible Week 1 permanent-stadium opening is not confirmation that construction, occupancy, league approval, or game-day operations are ready.
+- The 2027 temporary Norman venue remains the established contingency.
+- Do not invent a medical recommendation for Hampton.
+- Preserve Bryan's control over his own dialogue and decisions.
+- Keep Sarah as Bryan's primary business executive contact; Emily handles administrative coordination.
+- The Indianapolis farewell game remains unplayed regardless of external website results.
+
+## 10. Exact continuation point
+
+Wednesday, January 6, 2027 — 12:34 PM EST
+
+Bryan has finished his meeting with Sarah and returned to Emily's desk.
+
+Emily has confirmed Daniel Mercer can arrive at 1:00 PM and has reserved a small conference room.
+
+Her most recent question to Bryan:
+
+> Emily Carter: "You've got about twenty-five minutes before he arrives. Want me to bring you coffee, or are you all set?"
+
+Resume here. Do not automatically advance to Daniel's arrival until Bryan responds or requests a time skip.
+
+Archive 1.9.7 — End of incremental handoff.
+
+---
+
+# Archive 1.9.8 · January 6–9, 2027
+
+- Daniel Mercer's January 6 interview led to the January 9 Indianapolis Star feature “The Man Who Took the Colts Away Wants Indianapolis to Remember That He Tried.” Bryan described the competing perspectives as “sonder.” The article's advisory-role claim was superseded by 1.9.9.
+- January 8 employee farewell recognized 284 employees (192 moving, 92 staying). Frank Delaney, Luke Rhodes, Justin Herbert, Shane Steichen and Bryan spoke. The group photo was taken and Bryan stayed through the private reception.
+- Bryan extended the 7% annual gross base salary bonus to all 284 employees, scheduled for the next paycheck, and offered two farewell-game tickets per employee (568 total). Employee and family field access was requested.
+- Bryan authorized Sarah to sign the original-seat agreement subject to Rebecca's oversight and engineering and stadium requirements. Signature and removal were unconfirmed. Denise Walker knew a fan package was planned but did not know it included original seats. She shared Harold Bennett's story.
+- Frank and Bryan spoke about Seattle roots, the deliberate hires of Bobby, Scot and Pete, and Frank's wish to beat Jacksonville.
+- January 9, 9:29 AM EST: Emily has instructions for hotel luggage drop-off and Pho 21 after family arrivals. Brooke and Uncle Steven are to connect from Seattle through OKC. Travel and restaurant confirmations were still pending at this checkpoint. Week 18 was still unplayed.
+
+---
+
+# Archive 1.9.9 · January 10–11, 2027
+
+The January 10–11 handoff was submitted as revised 1.9.4. Its sequential archive label is 1.9.9.
+
+- Indianapolis defeated Jacksonville 20–14 at Lucas Oil Stadium, finishing 9–8 and out of the playoffs after a 7–1 finish. IND quarter scoring 0/10/7/3, JAX 0/0/0/14. Herbert 17/26, 193 yards, 1 TD, 0 INT. Giddens 22 carries, 73 yards, 1 TD. Carlies 2 INT, 4 tackles, 1 TFL. Ferrell 1.5 sacks and a forced fumble. Stutsman, CJ Allen and Josiah 0.5 sacks each. Cisse forced a fumble. Team totals 5 sacks, 2 INT and 2 forced fumbles. Remaining sack credits are unspecified.
+- Bryan tackled Ferrell in celebration and lifted Giddens and Herbert. Rhodes, Herbert, Giddens and Carlies spoke to fans. The final fan photograph was taken and employees and families received controlled field access.
+- Tommy received Herbert's autograph. Bryan promised Frank and Tommy a Combine dinner in Indianapolis with Bobby and Scot. The date and restaurant are open.
+- Carlie's January 10 farewell concluded the Irsays' active involvement. Their remaining stake sold December 31. Carlie has no advisory, executive or consulting position.
+- Bryan told Frank the Lake Hefner facilities were expected to finish in February, superseding March. Andy coordinates relocation logistics.
+- The family celebrated in the owner's suite. Quynh asked Bryan to be present for Braylee's birth despite free agency. No formal delegation was set.
+- January 11, 9:50 AM EST, downtown Indianapolis hotel lobby. The family prepared to fly home, Bryan stayed for postseason work, and Quynh asked him to call that evening. The flight and call were unplayed at this checkpoint.
+
+---
+
+# Bisons V2 · Archive 1.9.10
+
+Incremental update from Archive 1.9.9 · January 11 to February 1, 2027
+
+## Relocation
+
+By February 1, the Lake Hefner headquarters and practice facilities were approved for opening. Bryan and Andy Collins directed the relocation planning and finalized logistics. The move remains on schedule for **February 10, 2027**. The physical move and facility opening are still ahead. This update establishes no new downtown stadium milestone.
+
+## The Colts’ Farewell Season
+
+Mina Kimes and Rachel Park presented the completed 98-minute film at a private Oklahoma City premiere on February 1. Final cut, sound mix and legal clearances were complete. The screening ran from 7:00 to 8:38 PM CST. Public release details remain open. The proposed Year One series remains a separate project.
+
+The film covers Indianapolis history, the ownership transition, the 30–1–1 relocation vote, the 7–1 finish, and the employees and fans affected by the move. The Week 18 footage includes Indianapolis's 20–14 win, Bryan's on-field celebration, the players' farewells, and the final group photograph. Frank Delaney's interview and Tommy's autograph appear. The epilogue uses Bryan's recorded January 11 interview and a fan who remains angry while cherishing the final win. The film ends on Lucas Oil Stadium with “Thank you, Indianapolis.”
+
+Sarah, Emily, Andy, Bobby, Scot, Shane, Quynh, Jenny and Brandon appeared in the premiere scene. Frank was featured on screen. The audience laughed during Bryan's celebrations and applauded after the film. Quynh called it sad, Brandon was moved by Frank's segment, and Andy reflected on seeing colleagues from Indianapolis.
+
+## Open commitments
+
+- February 10 physical move and opening of the approved Lake Hefner facilities.
+- February Combine dinner in Indianapolis with Frank and Tommy, Bobby and Scot.
+- Public documentary release and separate Year One proposal.
+- Hampton treatment and recovery, Steichen extension, original-seat giveaway execution, employee bonus payment, legacy trust and Indianapolis charitable follow-through retain their previously established status.
+
+## Exact resume point
+
+**Monday, February 1, 2027 · 8:38 PM CST · private screening venue, Oklahoma City.**
+
+The film has ended. Mina has invited Bryan up and asked, “What did you think?” Bryan controls whether he goes up and what he says. Archive 2.0 remains reserved for Bryan's explicit transition.

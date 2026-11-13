@@ -1,3 +1,9 @@
+# Bisons V2 · Archive 1.9.10
+
+Open index.html via GitHub Pages or a local web server. The latest RP checkpoint is in current_handoff_2027-02-01.md. The standalone documentary feature is farewell-documentary.html.
+
+## Historical package notes
+
 # Oklahoma City Bisons V2 — Complete Static Archive v1.0
 
 **Canonical cutoff:** November 3, 2026, 10:18 AM CST. **Acquisition closed.** This is V2 only; **do not deploy over V1** unless intentionally replacing it. Recommended separate GitHub repository `bison-v2-archive`.

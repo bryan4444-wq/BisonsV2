@@ -1,12 +1,12 @@
 {
   "universe": "Oklahoma City Bisons V2",
-  "version": "1.9.5 — January 4, 2027",
-  "status": "8–8 · Final Indianapolis home game pending",
+  "version": "1.9.10 — February 1, 2027",
+  "status": "9–8 · Indianapolis farewell complete · February 10 move scheduled",
   "current_scene": {
-    "date": "2027-01-04",
-    "time": "11:05 AM EST",
-    "place": "Colts headquarters executive conference room",
-    "prompt": "Jonathan’s text just arrived. Bryan chooses the next action."
+    "date": "2027-02-01",
+    "time": "8:38 PM CST",
+    "place": "Private documentary premiere, Oklahoma City",
+    "prompt": "Mina asks Bryan what he thought. Bryan chooses his response."
   },
   "finance": {
     "franchise_valuation": 6800000000,
@@ -203,6 +203,26 @@
       "date": "Jan 4",
       "title": "Farewell and Syntergy planning",
       "detail": "Mina call, employee transition review and proposed Seattle venture."
+    },
+    {
+      "date": "January 8, 2027",
+      "title": "Employee farewell",
+      "detail": "284 employees recognized. Bryan extends the 7% annual base salary bonus to all employees."
+    },
+    {
+      "date": "January 10, 2027",
+      "title": "Indianapolis wins its final game",
+      "detail": "20–14 over Jacksonville, 9–8 final record. Player speeches, final fan photograph, employee field access and Irsay farewell completed."
+    },
+    {
+      "date": "February 1, 2027",
+      "title": "Relocation preparations finalized",
+      "detail": "Lake Hefner HQ and practice facilities approved for opening. Physical move scheduled for February 10."
+    },
+    {
+      "date": "February 1, 2027",
+      "title": "The Colts’ Farewell Season premieres",
+      "detail": "Mina Kimes and Rachel Park present the completed 98-minute film at a private Oklahoma City screening."
     }
   ],
   "characters": [
@@ -239,7 +259,7 @@
     {
       "name": "Carlie Irsay-Gordon",
       "role": "Former owner",
-      "description": "Irsay exit closed. Ceremonial farewell involvement."
+      "description": "Former ownership representative. The family exited December 31, and Carlie’s ceremonial involvement ended January 10."
     },
     {
       "name": "Casey Foyt",
@@ -304,7 +324,7 @@
     {
       "name": "Mina Kimes",
       "role": "Journalist",
-      "description": "Leads farewell documentary. Evaluating separate Year One proposal."
+      "description": "Presented the completed farewell documentary with Rachel Park. Evaluating the separate Year One proposal."
     },
     {
       "name": "Braylee",
@@ -365,10 +385,10 @@
     }
   ],
   "open_threads": [
-    "Week 18, Hampton imaging and farewell speech",
-    "Stadium authority approval for original seat gifts, Jan 5 meeting pending",
-    "Jan 8 staff gatherings and employee transition",
-    "Farewell documentary final footage and Year One feasibility",
+    "Hampton treatment and recovery timeline",
+    "Confidential original-seat giveaway: signature and engineering clearance pending",
+    "February 10 move, employee bonus payment and Combine dinner with Frank and Tommy",
+    "Farewell documentary public release and separate Year One feasibility",
     "Syntergy legal review, naming, formation, funding and Jonathan departure",
     "Executive contracts and Andy HR and personal assistance",
     "Stadium readiness, uniform approval, legacy trust and Love’s naming rights"
@@ -801,15 +821,17 @@
     "mercer_article": "Expected Nov 8 before kickoff; publication unconfirmed",
     "mina_interview": "Recorded Nov 6 1:00–1:51 PM EST; publication unconfirmed",
     "guarantee": "Lombardi within five years; statement recorded, future outcome unplayed",
-    "documentary": "Privately proposed Nov 6 after cameras/audio stopped; no ESPN approval, contract, permissions or filming",
-    "public_information": "Do not assume unpublished interviews widely known."
+    "documentary": "The Colts’ Farewell Season, 98 minutes. Completed and screened privately February 1 in Oklahoma City. Public release details pending.",
+    "public_information": "Do not assume unpublished interviews widely known.",
+    "mercer_farewell_article": "Published January 9, 2027. Its claim of a continuing Carlie advisory role is superseded by canon."
   },
   "football_status": {
-    "record": "8–8",
-    "next_game": "Jan 10 final Indianapolis home game",
+    "record": "9–8",
+    "next_game": null,
     "playoffs": "Eliminated",
-    "hampton": "Out for season, shoulder diagnosis pending",
-    "giddens": "Available"
+    "hampton": "Shoulder sprain and partial ACL tear. Treatment and recovery pending.",
+    "giddens": "Available",
+    "last_game": "January 10: Indianapolis 20, Jacksonville 14"
   },
   "employee_transition": {
     "eligible_relocation": "100% approved expenses",
@@ -819,12 +841,20 @@
     "charity": "100% of designated farewell merchandise revenue",
     "moving": 192,
     "staying": 92,
-    "estimated_cost": 9500000
+    "estimated_cost": 9500000,
+    "bonus": "7% of annual gross base salary for all 284 employees, approved, payment unconfirmed",
+    "field_access": "Completed January 10"
   },
   "syntergy": {
     "status": "Proposed, unformed",
     "hq": "Seattle",
     "ownership": "90/10 proposed",
     "funding_cap": 30000000
+  },
+  "relocation_operations": {
+    "move_date": "2027-02-10",
+    "logistics": "Finalized under Bryan and Andy Collins",
+    "lake_hefner": "HQ and practice facilities approved for opening",
+    "physical_move": "Scheduled"
   }
 }
