@@ -1,12 +1,12 @@
 {
   "universe": "Oklahoma City Bisons V2",
-  "version": "1.9.11 — February 23, 2027",
-  "status": "2027 offseason · Lake Hefner operational",
+  "version": "1.9.12 — February 24, 2027",
+  "status": "2027 offseason · Bijan Robinson trade finalized",
   "current_scene": {
-    "date": "2027-02-23",
-    "time": "12:10 PM CST",
-    "place": "Lake Hefner HQ executive conference room",
-    "prompt": "Ian Cunningham awaits Bryan’s response on speakerphone. No Bijan Robinson trade is agreed."
+    "date": "2027-02-24",
+    "time": "3:36 PM CST",
+    "place": "Lake Hefner HQ",
+    "prompt": "Bobby has just pointed to the free-agent board. Bryan chooses his response."
   },
   "finance": {
     "franchise_valuation": 6800000000,
@@ -233,6 +233,11 @@
       "date": "February 22, 2027",
       "title": "Farewell documentary extended cut",
       "detail": "98-minute private premiere February 1. Final 124-minute cut screened privately February 22. Network distribution approved, public date pending."
+    },
+    {
+      "date": "February 24, 2027",
+      "title": "Bisons acquire Bijan Robinson",
+      "detail": "Atlanta receives Hampton, Aiyuk, 2027 No. 22 and 2028 fourth No. 112. Hampton passed his physical. Oklahoma City retains No. 13."
     }
   ],
   "characters": [
@@ -402,8 +407,8 @@
     "Syntergy legal review, naming, formation, funding and Jonathan departure",
     "Executive contracts and Andy HR and personal assistance",
     "Stadium readiness, uniform approval, legacy trust and Love’s naming rights",
-    "Private Atlanta negotiation: three frameworks open, no Bijan trade agreed.",
-    "4–3 transition: Shane evaluating Lou Anarumo."
+    "4–3 transition: Shane evaluating Lou Anarumo.",
+    "Replace Aiyuk and evaluate 4–3 personnel in free agency."
   ],
   "rules": [
     "Bryan exclusively user-controlled",

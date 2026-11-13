@@ -1,6 +1,6 @@
-# Bisons V2 · Archive 1.9.11
+# Bisons V2 · Archive 1.9.12
 
-Open index.html via GitHub Pages or a local web server. The latest RP checkpoint is in current_handoff_2027-02-23.md. The standalone documentary feature is farewell-documentary.html.
+Open index.html via GitHub Pages or a local web server. The latest RP checkpoint is in current_handoff_2027-02-24.md. The standalone documentary feature is farewell-documentary.html.
 
 ## Historical package notes
 
