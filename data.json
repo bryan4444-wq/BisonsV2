@@ -1,12 +1,12 @@
 {
   "universe": "Oklahoma City Bisons V2",
-  "version": "1.9.12 — February 24, 2027",
-  "status": "2027 offseason · Bijan Robinson trade finalized",
+  "version": "2.0.1 — February 24, 2027",
+  "status": "2027 offseason · 14 confirmed free-agent signings",
   "current_scene": {
     "date": "2027-02-24",
-    "time": "3:36 PM CST",
-    "place": "Lake Hefner HQ",
-    "prompt": "Bobby has just pointed to the free-agent board. Bryan chooses his response."
+    "time": null,
+    "place": "Lake Hefner football operations war room",
+    "prompt": "Bryan has revealed 14 signings. About five in-game hours remain."
   },
   "finance": {
     "franchise_valuation": 6800000000,
@@ -238,6 +238,11 @@
       "date": "February 24, 2027",
       "title": "Bisons acquire Bijan Robinson",
       "detail": "Atlanta receives Hampton, Aiyuk, 2027 No. 22 and 2028 fourth No. 112. Hampton passed his physical. Oklahoma City retains No. 13."
+    },
+    {
+      "date": "February 24, 2027",
+      "title": "Bisons confirm 14 free-agent signings",
+      "detail": "Latest Madden snapshot shows $113M cap space with about five in-game hours remaining."
     }
   ],
   "characters": [
@@ -408,7 +413,7 @@
     "Executive contracts and Andy HR and personal assistance",
     "Stadium readiness, uniform approval, legacy trust and Love’s naming rights",
     "4–3 transition: Shane evaluating Lou Anarumo.",
-    "Replace Aiyuk and evaluate 4–3 personnel in free agency."
+    "Finalize offensive and defensive depth charts and complete John Bates’s fullback conversion."
   ],
   "rules": [
     "Bryan exclusively user-controlled",
@@ -873,5 +878,100 @@
     "logistics": "Finalized under Bryan and Andy Collins",
     "lake_hefner": "HQ and practice facilities operational",
     "physical_move": "Completed February 10"
+  },
+  "free_agency": {
+    "signings": [
+      {
+        "player": "Drew Lock, QB",
+        "years": 3,
+        "apy_millions": 2.93,
+        "signing_bonus_millions": 2.35
+      },
+      {
+        "player": "Chase Brown, HB",
+        "years": 4,
+        "apy_millions": 4.09,
+        "signing_bonus_millions": 3.6
+      },
+      {
+        "player": "Sean Tucker, HB",
+        "years": 3,
+        "apy_millions": 3.08,
+        "signing_bonus_millions": 1.11
+      },
+      {
+        "player": "Tank Dell, WR",
+        "years": 4,
+        "apy_millions": 6.57,
+        "signing_bonus_millions": 4.8
+      },
+      {
+        "player": "Josh Downs, WR",
+        "years": 2,
+        "apy_millions": 7.96,
+        "signing_bonus_millions": 4.03
+      },
+      {
+        "player": "Cole Kmet, TE",
+        "years": 3,
+        "apy_millions": 5.21,
+        "signing_bonus_millions": 4.18
+      },
+      {
+        "player": "T.J. Hockenson, TE",
+        "years": 1,
+        "apy_millions": 3.43,
+        "signing_bonus_millions": 0.49
+      },
+      {
+        "player": "John Bates, TE → FB",
+        "years": 2,
+        "apy_millions": 2.84,
+        "signing_bonus_millions": 1.58
+      },
+      {
+        "player": "Yaya Diaby, EDGE",
+        "years": 4,
+        "apy_millions": 23.3,
+        "signing_bonus_millions": 53.9
+      },
+      {
+        "player": "DeForest Buckner, DT",
+        "years": 2,
+        "apy_millions": 23.3,
+        "signing_bonus_millions": 26.2
+      },
+      {
+        "player": "Leonard Williams, DT",
+        "years": 2,
+        "apy_millions": 6.77,
+        "signing_bonus_millions": 1.84
+      },
+      {
+        "player": "DeMarvion Overshown, WILL",
+        "years": 3,
+        "apy_millions": 7.88,
+        "signing_bonus_millions": 5.46
+      },
+      {
+        "player": "Jevon Holland, FS",
+        "years": 5,
+        "apy_millions": 17.1,
+        "signing_bonus_millions": 44.6
+      },
+      {
+        "player": "Byron Murphy Jr., CB",
+        "years": 3,
+        "apy_millions": 8.95,
+        "signing_bonus_millions": 6.46
+      }
+    ],
+    "combined_apy_millions": 123.41,
+    "cap_space_millions": 113,
+    "team_cap_millions": 348,
+    "salaries_millions": 228,
+    "rookie_reserve_millions": 20.7,
+    "dead_cap_millions": 2.95,
+    "cap_hold_millions": 3.43
   }
 }
