@@ -1,12 +1,12 @@
 {
   "universe": "Oklahoma City Bisons V2",
-  "version": "1.9.10 — February 1, 2027",
-  "status": "9–8 · Indianapolis farewell complete · February 10 move scheduled",
+  "version": "1.9.11 — February 23, 2027",
+  "status": "2027 offseason · Lake Hefner operational",
   "current_scene": {
-    "date": "2027-02-01",
-    "time": "8:38 PM CST",
-    "place": "Private documentary premiere, Oklahoma City",
-    "prompt": "Mina asks Bryan what he thought. Bryan chooses his response."
+    "date": "2027-02-23",
+    "time": "12:10 PM CST",
+    "place": "Lake Hefner HQ executive conference room",
+    "prompt": "Ian Cunningham awaits Bryan’s response on speakerphone. No Bijan Robinson trade is agreed."
   },
   "finance": {
     "franchise_valuation": 6800000000,
@@ -223,6 +223,16 @@
       "date": "February 1, 2027",
       "title": "The Colts’ Farewell Season premieres",
       "detail": "Mina Kimes and Rachel Park present the completed 98-minute film at a private Oklahoma City screening."
+    },
+    {
+      "date": "February 10, 2027",
+      "title": "Oklahoma City relocation completed",
+      "detail": "Lake Hefner HQ and practice facilities operational."
+    },
+    {
+      "date": "February 22, 2027",
+      "title": "Farewell documentary extended cut",
+      "detail": "98-minute private premiere February 1. Final 124-minute cut screened privately February 22. Network distribution approved, public date pending."
     }
   ],
   "characters": [
@@ -387,11 +397,13 @@
   "open_threads": [
     "Hampton treatment and recovery timeline",
     "Confidential original-seat giveaway: signature and engineering clearance pending",
-    "February 10 move, employee bonus payment and Combine dinner with Frank and Tommy",
+    "Employee bonus payment and Combine dinner with Frank and Tommy",
     "Farewell documentary public release and separate Year One feasibility",
     "Syntergy legal review, naming, formation, funding and Jonathan departure",
     "Executive contracts and Andy HR and personal assistance",
-    "Stadium readiness, uniform approval, legacy trust and Love’s naming rights"
+    "Stadium readiness, uniform approval, legacy trust and Love’s naming rights",
+    "Private Atlanta negotiation: three frameworks open, no Bijan trade agreed.",
+    "4–3 transition: Shane evaluating Lou Anarumo."
   ],
   "rules": [
     "Bryan exclusively user-controlled",
@@ -821,7 +833,7 @@
     "mercer_article": "Expected Nov 8 before kickoff; publication unconfirmed",
     "mina_interview": "Recorded Nov 6 1:00–1:51 PM EST; publication unconfirmed",
     "guarantee": "Lombardi within five years; statement recorded, future outcome unplayed",
-    "documentary": "The Colts’ Farewell Season, 98 minutes. Completed and screened privately February 1 in Oklahoma City. Public release details pending.",
+    "documentary": "98-minute private premiere February 1. Final 124-minute cut screened privately February 22. Network distribution approved, public date pending.",
     "public_information": "Do not assume unpublished interviews widely known.",
     "mercer_farewell_article": "Published January 9, 2027. Its claim of a continuing Carlie advisory role is superseded by canon."
   },
@@ -854,7 +866,7 @@
   "relocation_operations": {
     "move_date": "2027-02-10",
     "logistics": "Finalized under Bryan and Andy Collins",
-    "lake_hefner": "HQ and practice facilities approved for opening",
-    "physical_move": "Scheduled"
+    "lake_hefner": "HQ and practice facilities operational",
+    "physical_move": "Completed February 10"
   }
 }

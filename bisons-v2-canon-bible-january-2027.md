@@ -1,6 +1,6 @@
 # Bisons V2 Canon Bible — January 2027
 
-Master reference through Archive 1.9.10, February 1, 2027, 8:38 PM CST. Later confirmed changes belong in incremental handoffs.
+Master reference through Archive 1.9.11, February 23, 2027, 12:10 PM CST. Later confirmed changes belong in incremental handoffs.
 
 ## Source priority
 
@@ -28,7 +28,7 @@ Use the highest-priority source on a conflict. An actual played development can 
 | **Quynh (“Q”)** | Jonathan introduced them in November 2022. Married March 27, 2023. Independent, affectionate and direct. Use competent English with occasional natural grammar differences. Braylee is due March 20, 2027. |
 | **Jonathan** | Bryan’s best friend and Q’s cousin. Introduced them and gave Bryan the winning lottery ticket. Has led Ascend’s Seattle office and remains employed there. Institutional investors discussed a potential COO role. He prefers the proposed Syntergy CEO role and awaits legal review before departure, recruitment or client outreach. Earlier founding role remains unresolved. |
 | **Linda “Lindy” Harper** | Q coined her nickname during the June 2023 interview. Household assistant since September 2023, with a detached suite at the estate. Handles household logistics and transportation. Trust grew through the job. Professional and familial boundaries apply. |
-| **Daniel Mercer / Mina Kimes** | Independent Colts reporter and ESPN journalist. Mercer privately accepted an April 2027 Lake Hefner visit and off-record dinner in principle. No relocation commitment. Mina and Rachel Park presented the completed 98-minute Indianapolis farewell documentary at a private February 1 screening. It ends in Indianapolis. Public release remains open. The separate Year One series and three-day draft-room access remain proposals. Reserve Daniel for Mercer when naming invented characters. |
+| **Daniel Mercer / Mina Kimes** | Independent Colts reporter and ESPN journalist. Mercer privately accepted an April 2027 Lake Hefner visit and off-record dinner in principle. No relocation commitment. Mina and Rachel Park screened the 98-minute original February 1 and the final 124-minute extended cut February 22. The network approved distribution and the public date remains pending. The separate Year One series and three-day draft-room access remain proposals. Reserve Daniel for Mercer when naming invented characters. |
 
 Bryan, Q and Lindy have an established Oklahoma City household. Bryan and Q moved from Renton on April 20, 2024. Their fictional estate is about 12.4 acres, with a roughly 7,000-square-foot home and 12-car garage.
 
@@ -38,7 +38,7 @@ Travel follows established assignments. Sarah and Rebecca accompanied Bryan for 
 
 - **Ownership:** December 31 buyout closed for $2.04B. Bryan 81%, Oklahoma syndicate 19%, Irsays 0%. November 3 closing was $4.760B for 70% at a $6.8B valuation. Individual syndicate allocations remain disputed. Love’s naming rights remain open.
 - **Relocation and brand:** 2027 relocation approved 30–1–1, $375M over five years. Bisons name, primary logo and orange-and-blue identity are approved and public. Uniform approval pending. Pete’s Barry mascot appearance is public. His prototype jersey at the private league session remains confidential.
-- **Facilities:** Stadium funding passed 92%–8%. Ballot and implementation details, legal overrun guarantee and downtown completion remain open. Downtown target is during 2027. Lake Hefner HQ and practice facilities are approved for opening. Relocation logistics are finalized under Bryan and Andy Collins, and moving day is February 10, 2027. Norman agreement covers the full 2027 season, with operating details pending.
+- **Facilities:** Stadium funding passed 92%–8%. Ballot and implementation details, legal overrun guarantee and downtown completion remain open. Downtown target is during 2027. Lake Hefner HQ and practice facilities are operational following the February 10 relocation. Norman agreement covers the full 2027 season, with operating details pending.
 - **Indianapolis:** Eligible relocation expenses, six months of eligible transition severance, applicable 2027 renewals refunded, and 100% of qualifying farewell merchandise revenue pledged to local partners and charities. Colts historical identity stays associated with Indianapolis, with legal trust documents pending. The final game was a 20–14 win over Jacksonville, closing a 9–8 non-playoff season. Player farewells, the fan photo and employee field access took place January 10. The 7% bonus for all 284 employees is approved, payment unconfirmed. Sarah has conditional signing authority for the confidential original-seat gift agreement. Signature and engineering clearance remain unconfirmed. Bryan promised Frank and Tommy a Combine dinner with Bobby and Scot. Preserve the qualifying merchandise revenue pledge and clarify how it applies alongside separate auction net-profit language.
 - **Football:** 8–8 and eliminated after beating Cleveland 35–16. The January 10 finale at Lucas Oil remains unplayed. Herbert QB1, Leonard backup. Hampton out with shoulder injury, diagnosis pending. Giddens available. The 1.4 ledger holds the trade, signing and draft details.
 
@@ -67,4 +67,4 @@ Keep handoffs incremental from 1.9.1 onward. Record new events, corrections, sta
 
 ## Resume checkpoint
 
-Monday, February 1, 2027, at **8:38 PM CST**, private documentary premiere in Oklahoma City. Mina asks Bryan what he thought. Bryan chooses his response. Archive 2.0 awaits Bryan's direction.
+Tuesday, February 23, 2027, at **12:10 PM CST**, Lake Hefner HQ executive conference room. Ian Cunningham is live on speakerphone awaiting Bryan’s response. No Bijan trade has been agreed. Archive 2.0 awaits Bryan's direction.
