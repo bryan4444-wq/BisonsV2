@@ -1,12 +1,12 @@
 {
   "universe": "Oklahoma City Bisons V2",
-  "version": "2.0.1 — February 24, 2027",
-  "status": "2027 offseason · 14 confirmed free-agent signings",
+  "version": "2.0.3 — April 2027",
+  "status": "UDFA and offseason progression reviewed",
   "current_scene": {
-    "date": "2027-02-24",
+    "date": null,
     "time": null,
-    "place": "Lake Hefner football operations war room",
-    "prompt": "Bryan has revealed 14 signings. About five in-game hours remain."
+    "place": null,
+    "prompt": "Bryan retains Chase Brown at RB2. Training camp and preseason have not begun."
   },
   "finance": {
     "franchise_valuation": 6800000000,
@@ -243,6 +243,21 @@
       "date": "February 24, 2027",
       "title": "Bisons confirm 14 free-agent signings",
       "detail": "Latest Madden snapshot shows $113M cap space with about five in-game hours remaining."
+    },
+    {
+      "date": "2027 NFL Draft",
+      "title": "Bisons complete inaugural draft",
+      "detail": "Eight rookies, led by Ashton Hampton at No. 9. K.J. Wright is defensive coordinator."
+    },
+    {
+      "date": "February 2027",
+      "title": "Combine dinner at Shapiro’s",
+      "detail": "Bryan fulfilled his promise to Frank and Tommy. Michael is invited to the 2028 dinner."
+    },
+    {
+      "date": "April 2027",
+      "title": "UDFA and progression review",
+      "detail": "Four confirmed signings. Bijan reaches 99 OVR and Chase Brown rises to 85 and stays RB2."
     }
   ],
   "characters": [
@@ -412,8 +427,9 @@
     "Syntergy legal review, naming, formation, funding and Jonathan departure",
     "Executive contracts and Andy HR and personal assistance",
     "Stadium readiness, uniform approval, legacy trust and Love’s naming rights",
-    "4–3 transition: Shane evaluating Lou Anarumo.",
-    "Finalize offensive and defensive depth charts and complete John Bates’s fullback conversion."
+    "Finalize offensive and defensive depth charts and complete John Bates’s fullback conversion.",
+    "Starting roles, receiver hierarchy, QB3 and return duties",
+    "Marshall, Yoder and Beers outcomes, hidden development tiers, and 2028 Combine dinner."
   ],
   "rules": [
     "Bryan exclusively user-controlled",
@@ -973,5 +989,183 @@
     "rookie_reserve_millions": 20.7,
     "dead_cap_millions": 2.95,
     "cap_hold_millions": 3.43
-  }
+  },
+  "draft_2027": {
+    "cap_room_millions": 104,
+    "rookie_contract_years": 4,
+    "mercer_grade": "B",
+    "scot_provisional_grade": "B+",
+    "trade": {
+      "team": "Philadelphia",
+      "sent": [
+        13,
+        81,
+        144
+      ],
+      "received": [
+        9
+      ]
+    },
+    "picks": [
+      {
+        "pick": 9,
+        "player": "Ashton Hampton",
+        "position": "CB",
+        "ovr": 80,
+        "grade": "A−"
+      },
+      {
+        "pick": 35,
+        "player": "Ryan Coleman-Williams",
+        "position": "WR",
+        "ovr": 73,
+        "grade": "B−"
+      },
+      {
+        "pick": 49,
+        "player": "Will Heldt",
+        "position": "EDGE",
+        "ovr": 73,
+        "grade": "B−"
+      },
+      {
+        "pick": 58,
+        "player": "Tony Rojas",
+        "position": "WILL",
+        "ovr": 74,
+        "grade": "B−"
+      },
+      {
+        "pick": 112,
+        "player": "Nyck Harbor",
+        "position": "WR",
+        "ovr": 68,
+        "grade": "C−"
+      },
+      {
+        "pick": 151,
+        "player": "Brett Norfleet",
+        "position": "TE",
+        "ovr": 67,
+        "grade": "C+"
+      },
+      {
+        "pick": 176,
+        "player": "John Mateer",
+        "position": "QB",
+        "ovr": 66,
+        "grade": "C+"
+      },
+      {
+        "pick": 191,
+        "player": "Isaiah Sategna",
+        "position": "WR",
+        "ovr": 68,
+        "grade": "C−"
+      }
+    ]
+  },
+  "defensive_coordinator": "K.J. Wright",
+  "undrafted_signings": [
+    "Aidan Birr",
+    "O. Mkparu",
+    "C. Fite",
+    "B. Taylor-Whitfield"
+  ],
+  "roster_snapshot": {
+    "occupied": 74,
+    "capacity": 75
+  },
+  "offseason_progression": [
+    {
+      "player": "Chase Brown",
+      "previous_ovr": 75,
+      "ovr": 85
+    },
+    {
+      "player": "Brandon Cisse",
+      "previous_ovr": 80,
+      "ovr": 86
+    },
+    {
+      "player": "DeMarvion Overshown",
+      "previous_ovr": 75,
+      "ovr": 81
+    },
+    {
+      "player": "Bernhard Raimann",
+      "previous_ovr": 83,
+      "ovr": 88
+    },
+    {
+      "player": "Nehemiah Pritchett",
+      "previous_ovr": 72,
+      "ovr": 77
+    },
+    {
+      "player": "Marvin Harrison Jr.",
+      "previous_ovr": 76,
+      "ovr": 79
+    },
+    {
+      "player": "Bryce Boettcher",
+      "previous_ovr": 66,
+      "ovr": 69
+    },
+    {
+      "player": "Bijan Robinson",
+      "previous_ovr": 97,
+      "ovr": 99
+    },
+    {
+      "player": "Yaya Diaby",
+      "previous_ovr": 83,
+      "ovr": 85
+    },
+    {
+      "player": "Cam Taylor-Britt",
+      "previous_ovr": 80,
+      "ovr": 82
+    },
+    {
+      "player": "Tanor Bortolini",
+      "previous_ovr": 77,
+      "ovr": 79
+    },
+    {
+      "player": "Jermaine Johnson II",
+      "previous_ovr": 77,
+      "ovr": 79
+    },
+    {
+      "player": "Danny Stutsman",
+      "previous_ovr": 74,
+      "ovr": 76
+    },
+    {
+      "player": "Jalen Travis",
+      "previous_ovr": 69,
+      "ovr": 71
+    },
+    {
+      "player": "Tyler Warren",
+      "previous_ovr": 85,
+      "ovr": 86
+    },
+    {
+      "player": "Ashton Hampton",
+      "previous_ovr": 80,
+      "ovr": 81
+    },
+    {
+      "player": "Laiatu Latu",
+      "previous_ovr": 78,
+      "ovr": 79
+    },
+    {
+      "player": "JT Tuimoloau",
+      "previous_ovr": 71,
+      "ovr": 72
+    }
+  ]
 }
